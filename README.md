@@ -7,6 +7,6 @@
 | [ABC](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/abc.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Above Average](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/aboveaverage.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Add Two Number](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/addtwonumbers.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Count The Vowels](https://github.com/lisansulistiani/Kattis/blob/main/GO/countthevowels.go) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/GO) | 
+| [Count The Vowels](https://github.com/lisansulistiani/Kattis/blob/main/GO/countthevowels.go) | [Go](https://github.com/lisansulistiani/Kattis/blob/main/GO) | 
 
 and many more!!
