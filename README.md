@@ -17,9 +17,16 @@
 | [A Real Challenge](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/areal.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Army Strength (Easy)](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/armystrengtheasy.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Arrangement](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/upprodun.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Autori)](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/autori.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Autori](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/autori.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Avion](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/avion.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Babelfish](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/babelfish.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
+| [Backspace](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/backspace.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
+| [Batter Up](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/baterrup.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Bela](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/bela.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Betting](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/betting.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
+| [Bijele](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/bijele.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Birthday Memorization](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/fodelsedagsmemorisering.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
+| [Black Friday](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/blackfriday.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Count The Vowels](https://github.com/lisansulistiani/Kattis/blob/main/GO/countthevowels.go) | [Go](https://github.com/lisansulistiani/Kattis/blob/main/GO) | 
 
 and many more!!
