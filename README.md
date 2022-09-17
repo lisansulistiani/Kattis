@@ -57,7 +57,7 @@ Final Exam
 | [Finding An A](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/findingAnA.java) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA) | 
 FizzBuzz
 Flexible Spaces
-| [Forced Choice] (https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/forcedchoice.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
+| [Forced Choice](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/forcedchoice.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 Free Food
 | [FYI](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/fyi.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [GCVWR](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/gcvwr.java) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA) | 
