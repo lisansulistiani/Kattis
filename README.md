@@ -42,7 +42,7 @@ Datum
 Detailed Differences
 Dice Cup
 Dice Game
-Digit Swap
+| [Digit Swap](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/digitswap.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 DRM Messages
 Echo Echo Echo
 Eight Queens
@@ -54,18 +54,18 @@ Faktor
 Fifty Shades of Pink
 Filip
 Final Exam
-Finding An A
+| [Finding An A](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/findingAnA.java) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA) | 
 FizzBuzz
 Flexible Spaces
-Forced Choice
+| [Forced Choice] (https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/forcedchoice.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 Free Food
-FYI
-GCVWR
+| [FYI](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/fyi.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
+| [GCVWR](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/gcvwr.java) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA) | 
 Grading
 Grass Seed Inc.
 Greetings!
 Hanging Out on the Terrace
-Hangman
+| [Hangman](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/hangman.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 Harshad Numbers
 Heart Rate
 Hello World!
@@ -85,7 +85,7 @@ Judging Moose
 Jumbled Compass
 Jumbo Javelin
 Kemija
-Knot Knowledge
+| [Knot Knowledge](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/knotknowledge.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 Kornislav
 Ladder
 Laptop Sticker
@@ -149,10 +149,10 @@ Sibice
 Simon Says
 Simon Says
 Simple Addition
-Simple Arithmetic
+| [Simple Arithmetic](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/simplearithmetic.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 Skener
 Skocimis
-Skru op!
+| [Skru op!](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/skruop.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 SMIL
 Soda Slurper
 Solving for Carrots
@@ -176,7 +176,7 @@ Take Two Stones
 Tarifa
 Tastelogger
 Teque
-Tetration
+| [Tetration](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/tetration.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 The Amazing Human Cannonball
 The Easiest Problem Is This One
 The Key to Cryptography
@@ -186,10 +186,10 @@ Tri
 Triangle Area
 Trik
 Two-sum
-Ultimate Binary Watch
+| [Ultimate Binary Watch](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/ultimatebinarywatch.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 WERTYU
 What does the fox say?
-Which is Greater?
+| [Which is Greater?](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/whichisgreater.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 Yin and Yang Stones
 Zamka
 
