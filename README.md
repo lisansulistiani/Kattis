@@ -43,15 +43,15 @@
 | [Dice Cup](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/dicecup.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Dice Game](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/dicegame.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Digit Swap](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/digitswap.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-DRM Messages
-Echo Echo Echo
-Eight Queens
+| [DRM Messages](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/drmmessages.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Echo Echo Echo](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/echo.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
+| [Eight Queens](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/8queens.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 Electrical Outlets
 Encoded Message
-Erase Securely
+| [Erase Securely](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/erase.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 Eye of Sauron
 | [Faktor](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/faktor.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-Fifty Shades of Pink
+| [Fifty Shades of Pink](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/fiftyshades.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 Filip
 Final Exam
 | [Finding An A](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/findingAnA.java) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA) | 
@@ -79,7 +79,7 @@ Imperial Measurement
 IsItHalloween.com
 I've Been Everywhere, Man
 Jack-O'-Lantern Juxtaposition
-Janitor Troubles
+| [Janitor Troubles](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/janitortroubles.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 Job Expenses
 Judging Moose
 Jumbled Compass
@@ -92,7 +92,7 @@ Laptop Sticker
 Last Factorial Digit
 Left Beehind
 License to Launch
-Line Them Up
+| [Line Them Up](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/lineup.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 Luhn's Checksum Algorithm
 Magic Trick
 Math Worksheet
@@ -103,16 +103,16 @@ Mjehuric
 Modulo
 Nasty Hacks
 No Duplicates
-N-sum
+| [N-sum](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/nsum.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 Number Fun
-Odd Echo
+| [Odd Echo](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/oddecho.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 Oddities
 Odd Man Out
 One Chicken Per Person!
 Östgötska
 Parking
 Pet
-Phone List
+| [Phone List](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/phonelist.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 Piece of Cake!
 Pizza Crust
 Planina
@@ -129,7 +129,7 @@ Quick Estimates
 Quite a Problem
 R2
 Railroad
-Rating Problems
+| [Rating Problems](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/ratingproblems.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 Recount
 Relocation
 Reverse
@@ -170,7 +170,7 @@ Stuck In A Time Loop
 Sum Kind of Problem
 Sum Squared Digits Function
 Symmetric Order
-T9 Spelling
+| [T9 Spelling](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/t9spelling.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 Tai's formula
 Take Two Stones
 Tarifa
@@ -188,7 +188,7 @@ Trik
 Two-sum
 | [Ultimate Binary Watch](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/ultimatebinarywatch.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 WERTYU
-What does the fox say?
+| [What does the fox say?](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/whatdoesthefoxsay.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Which is Greater?](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/whichisgreater.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 Yin and Yang Stones
 Zamka
