@@ -36,12 +36,12 @@
 | [Cold-puter Science](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/cold.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Count The Vowels](https://github.com/lisansulistiani/Kattis/blob/main/GO/countthevowels.go) | [Go](https://github.com/lisansulistiani/Kattis/blob/main/GO) | 
 | [Cpr-nummer](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cprnummer.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-Cryptographer's Conundrum
-Cudoviste
-Datum
-Detailed Differences
-Dice Cup
-Dice Game
+| [Cryptographer's Conundrum](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/conundrum.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Cudoviste](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cudoviste.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
+| [Datum](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/datum.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Detailed Differences](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/detaileddifferences.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Dice Cup](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/dicecup.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Dice Game](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/dicegame.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Digit Swap](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/digitswap.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 DRM Messages
 Echo Echo Echo
@@ -50,7 +50,7 @@ Electrical Outlets
 Encoded Message
 Erase Securely
 Eye of Sauron
-Faktor
+| [Faktor](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/faktor.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 Fifty Shades of Pink
 Filip
 Final Exam
@@ -62,13 +62,13 @@ Free Food
 | [FYI](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/fyi.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [GCVWR](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/gcvwr.java) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA) | 
 Grading
-Grass Seed Inc.
-Greetings!
+| [Grass Seed Inc.](https://github.com/lisansulistiani/Kattis/tree/main/C/grassseed.c) | [C](https://github.com/lisansulistiani/Kattis/tree/main/C) |
+| [Greetings!](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/greetings2.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 Hanging Out on the Terrace
 | [Hangman](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/hangman.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 Harshad Numbers
 Heart Rate
-Hello World!
+| [Hello World!](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/helloworld.cpp), [Hello World! - C Version](https://github.com/lisansulistiani/Kattis/tree/main/C/helloWorld.c) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B), [C](https://github.com/lisansulistiani/Kattis/tree/main/C) |
 Help a PhD candidate out!
 Herman
 Hissing Microphone
@@ -160,7 +160,7 @@ Sort of Sorting
 Sort Two Numbers
 Soylent
 Spavanac
-Speeding
+| [Speeding](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/speeding.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 Speed Limit
 Stacking Cups
 Stand on Zanzibar
@@ -183,7 +183,7 @@ The Key to Cryptography
 The Owl and the Fox
 Transit Woes
 Tri
-Triangle Area
+| [Triangle Area](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/triarea.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 Trik
 Two-sum
 | [Ultimate Binary Watch](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/ultimatebinarywatch.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
