@@ -52,13 +52,13 @@
 | [Eye of Sauron](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/eyeofsauron.java) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA) | 
 | [Faktor](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/faktor.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Fifty Shades of Pink](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/fiftyshades.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-Filip
-Final Exam
+| [Filip](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/filip.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
+| [Final Exam](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/finalexam2.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Finding An A](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/findingAnA.java) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA) | 
-FizzBuzz
+| [FizzBuzz](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/FizzBuzz.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 Flexible Spaces
 | [Forced Choice](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/forcedchoice.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-Free Food
+| [Free Food](https://github.com/lisansulistiani/Kattis/blob/main/C#/freefood.cs) | [C#](https://github.com/lisansulistiani/Kattis/blob/main/C#) | 
 | [FYI](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/fyi.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [GCVWR](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/gcvwr.java) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA) | 
 Grading
