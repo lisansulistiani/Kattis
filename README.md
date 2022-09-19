@@ -58,18 +58,18 @@
 | [FizzBuzz](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/FizzBuzz.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 Flexible Spaces
 | [Forced Choice](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/forcedchoice.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Free Food](https://github.com/lisansulistiani/Kattis/blob/main/C#/freefood.cs) | [C#](https://github.com/lisansulistiani/Kattis/blob/main/C#) | 
+| [Free Food](https://github.com/lisansulistiani/Kattis/blob/main/C%23/freefood.cs) | [C#](https://github.com/lisansulistiani/Kattis/blob/main/C%23) | 
 | [FYI](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/fyi.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [GCVWR](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/gcvwr.java) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA) | 
-Grading
+| [Grading](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/grading.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Grass Seed Inc.](https://github.com/lisansulistiani/Kattis/tree/main/C/grassseed.c) | [C](https://github.com/lisansulistiani/Kattis/tree/main/C) |
 | [Greetings!](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/greetings2.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-Hanging Out on the Terrace
+| [Hanging Out on the Terrace](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/hangingout.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Hangman](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/hangman.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-Harshad Numbers
-Heart Rate
+| [Harshad Numbers](https://github.com/lisansulistiani/Kattis/blob/main/C%23/harshadnumbers.cs) | [C#](https://github.com/lisansulistiani/Kattis/blob/main/C%23) | 
+| [Heart Rate](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/heartrate.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Hello World!](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/helloworld.cpp), [Hello World! - C Version](https://github.com/lisansulistiani/Kattis/tree/main/C/helloWorld.c) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B), [C](https://github.com/lisansulistiani/Kattis/tree/main/C) |
-Help a PhD candidate out!
+| [Help a PhD candidate out!](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/helpaphd.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 Herman
 Hissing Microphone
 | [Homework](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/homework.java) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA) | 
