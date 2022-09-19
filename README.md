@@ -68,7 +68,7 @@ Flexible Spaces
 | [Hangman](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/hangman.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Harshad Numbers](https://github.com/lisansulistiani/Kattis/blob/main/C%23/harshadnumbers.cs) | [C#](https://github.com/lisansulistiani/Kattis/blob/main/C%23) | 
 | [Heart Rate](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/heartrate.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Hello World!](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/helloworld.cpp), [Hello World! - C Version](https://github.com/lisansulistiani/Kattis/tree/main/C/helloWorld.c) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B), [C](https://github.com/lisansulistiani/Kattis/tree/main/C) |
+| [Hello World! - C++ Version](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/helloworld.cpp), [Hello World! - C Version](https://github.com/lisansulistiani/Kattis/tree/main/C/helloWorld.c) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B), [C](https://github.com/lisansulistiani/Kattis/tree/main/C) |
 | [Help a PhD candidate out!](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/helpaphd.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 Herman
 Hissing Microphone
@@ -187,11 +187,11 @@ Tri
 Trik
 Two-sum
 | [Ultimate Binary Watch](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/ultimatebinarywatch.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-WERTYU
+| [WERTYU](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/wertyu.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [What does the fox say?](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/whatdoesthefoxsay.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Which is Greater?](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/whichisgreater.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-Yin and Yang Stones
-Zamka
+| [Yin and Yang Stones](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/yinyangstones.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Zamka](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/zamka.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 
 
 
