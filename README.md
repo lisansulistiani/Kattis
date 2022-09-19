@@ -171,21 +171,21 @@ Sum Kind of Problem
 Sum Squared Digits Function
 Symmetric Order
 | [T9 Spelling](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/t9spelling.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-Tai's formula
-Take Two Stones
-Tarifa
-Tastelogger
-Teque
+| [Tai's formula](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/taisformula.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Take Two Stones](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/twostones.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Tarifa](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/tarifa.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Tastelogger](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/keylogger.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
+| [Teque](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/teque.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Tetration](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/tetration.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-The Amazing Human Cannonball
-The Easiest Problem Is This One
-The Key to Cryptography
-The Owl and the Fox
-Transit Woes
-Tri
+| [The Amazing Human Cannonball](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/humancanonball2.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [The Easiest Problem Is This One](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/easiest.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [The Key to Cryptography](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/keytocrypto.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [The Owl and the Fox](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/owlandfox.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Transit Woes](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/transitwoes.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Tri](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/tri.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Triangle Area](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/triarea.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-Trik
-Two-sum
+| [Trik](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/trik.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Two-sum](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/twosum.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Ultimate Binary Watch](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/ultimatebinarywatch.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [WERTYU](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/wertyu.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [What does the fox say?](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/whatdoesthefoxsay.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
