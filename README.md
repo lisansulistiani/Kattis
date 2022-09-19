@@ -46,10 +46,10 @@
 | [DRM Messages](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/drmmessages.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Echo Echo Echo](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/echo.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Eight Queens](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/8queens.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-Electrical Outlets
-Encoded Message
+| [Electrical Outlets](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/electricaloutlets.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Encoded Message](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/encodedmessage.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Erase Securely](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/erase.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-Eye of Sauron
+| [Eye of Sauron](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/eyeofsauron.java) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA) | 
 | [Faktor](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/faktor.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Fifty Shades of Pink](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/fiftyshades.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 Filip
@@ -72,7 +72,7 @@ Heart Rate
 Help a PhD candidate out!
 Herman
 Hissing Microphone
-Homework
+| [Homework](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/homework.java) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA) | 
 Honour Thy (Apaxian) Parent
 ICPC Awards
 Imperial Measurement
@@ -124,7 +124,7 @@ Printing Costs
 Provinces and Gold
 Quadrant Selection
 Quality-Adjusted Life-Year
-Quick Brown Fox
+| [Quick Brown Fox](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/quickbrownfox.java) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA) | 
 Quick Estimates
 Quite a Problem
 R2
