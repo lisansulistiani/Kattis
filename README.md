@@ -56,7 +56,7 @@
 | [Final Exam](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/finalexam2.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Finding An A](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/findingAnA.java) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA) | 
 | [FizzBuzz](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/FizzBuzz.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-Flexible Spaces
+| [Flexible Spaces](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/flexible.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Forced Choice](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/forcedchoice.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Free Food](https://github.com/lisansulistiani/Kattis/blob/main/C%23/freefood.cs) | [C#](https://github.com/lisansulistiani/Kattis/blob/main/C%23) | 
 | [FYI](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/fyi.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
@@ -73,14 +73,14 @@ Flexible Spaces
 | [Herman](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/herman.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Hissing Microphone](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/hissing.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Homework](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/homework.java) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA) | 
-Honour Thy (Apaxian) Parent
-ICPC Awards
-Imperial Measurement
-IsItHalloween.com
-I've Been Everywhere, Man
-Jack-O'-Lantern Juxtaposition
+| [Honour Thy (Apaxian) Parent](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/apaxianparent.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [ICPC Awards](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/icpcaward.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Imperial Measurement](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/measurement.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [IsItHalloween.com](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/isithallowen.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [I've Been Everywhere, Man](https://github.com/lisansulistiani/Kattis/blob/main/C%23/everywhere.cs) | [C#](https://github.com/lisansulistiani/Kattis/blob/main/C%23) | 
+| [Jack-O'-Lantern Juxtaposition](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/jackolanternjuxtaposition.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Janitor Troubles](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/janitortroubles.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-Job Expenses
+| [Job Expenses](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/jobexpenses.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 Judging Moose
 Jumbled Compass
 Jumbo Javelin
