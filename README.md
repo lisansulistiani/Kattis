@@ -70,8 +70,8 @@ Flexible Spaces
 | [Heart Rate](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/heartrate.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Hello World! - C++ Version](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/helloworld.cpp), [Hello World! - C Version](https://github.com/lisansulistiani/Kattis/tree/main/C/helloWorld.c) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B), [C](https://github.com/lisansulistiani/Kattis/tree/main/C) |
 | [Help a PhD candidate out!](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/helpaphd.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-Herman
-Hissing Microphone
+| [Herman](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/herman.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Hissing Microphone](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/hissing.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Homework](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/homework.java) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA) | 
 Honour Thy (Apaxian) Parent
 ICPC Awards
