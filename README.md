@@ -81,16 +81,16 @@
 | [Jack-O'-Lantern Juxtaposition](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/jackolanternjuxtaposition.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Janitor Troubles](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/janitortroubles.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Job Expenses](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/jobexpenses.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-Judging Moose
-Jumbled Compass
-Jumbo Javelin
-Kemija
+| [Judging Moose](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/judgingamoose.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
+| [Jumbled Compass](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/compass.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Jumbo Javelin](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/jumbojavelin.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Kemija](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/kemija08.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Knot Knowledge](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/knotknowledge.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-Kornislav
-Ladder
-Laptop Sticker
-Last Factorial Digit
-Left Beehind
+| [Kornislav](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/kornislav.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Ladder](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/ladder.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Laptop Sticker](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/laptopsticker.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Last Factorial Digit](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/lastfactorialdigit.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Left Beehind](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/leftbeehind.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 License to Launch
 | [Line Them Up](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/lineup.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 Luhn's Checksum Algorithm
