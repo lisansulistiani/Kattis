@@ -126,25 +126,25 @@
 | [Quality-Adjusted Life-Year](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/QALY.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Quick Brown Fox](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/quickbrownfox.java) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA) | 
 | [Quick Estimates](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/quickestimates.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-Quite a Problem
-R2
-Railroad
+| [Quite a Problem](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/quiteaproblem.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
+| [R2](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/R2.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Railroad](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/railroad.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Rating Problems](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/ratingproblems.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-Recount
-Relocation
-Reverse
+| [Recount](https://github.com/lisansulistiani/Kattis/blob/main/C%23/recount.cs) | [C#](https://github.com/lisansulistiani/Kattis/blob/main/C%23) | 
+| [Relocation](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/relocation.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Reverse](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/ofugsnuid.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Reversed Binary Numbers](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/reversebinary.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-Reverse Rot
-Riječi
-Roaming Romans
-Run-Length Encoding, Run!
-Saving Daylight
-Saving For Retirement
-Secret Message
-Server
-Seven Wonders
-Shattered Cake
-Shopping List (Easy)
+| [Reverse Rot](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/reverseRot.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Riječi](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/rijeci.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Roaming Romans](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/romans.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Run-Length Encoding, Run!](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/runlengthencodingrun.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Saving Daylight](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/savingdaylight.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Saving For Retirement](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/savingforretirement.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Secret Message](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/secretmessage.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Server](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/server.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Seven Wonders](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/SevenWonder.java) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA) | 
+| [Shattered Cake](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/shatteredCake.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
+| [Shopping List (Easy)](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/shoppinglisteasy.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 Sibice
 Simon Says
 Simon Says
