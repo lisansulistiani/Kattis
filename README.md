@@ -91,17 +91,17 @@
 | [Laptop Sticker](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/laptopsticker.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Last Factorial Digit](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/lastfactorialdigit.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Left Beehind](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/leftbeehind.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-License to Launch
+| [License to Launch](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/licensetolaunch.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Line Them Up](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/lineup.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-Luhn's Checksum Algorithm
-Magic Trick
-Math Worksheet
-Mirror Images
-Missing Numbers
-Mixed Fractions
-Mjehuric
-Modulo
-Nasty Hacks
+| [Luhn's Checksum Algorithm](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/luhnchecksum.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
+| [Magic Trick](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/magictrick.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
+| [Math Worksheet - Py Version](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/mathworksheet.py), [Math Worksheet - C++ Version](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/mathworksheet.cpp) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON), [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) | 
+| [Mirror Images](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/mirror.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Missing Numbers](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/missingnumbers.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Mixed Fractions](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/mixedfractions.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Mjehuric](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/mjehuric.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
+| [Modulo](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/modulo.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Nasty Hacks](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/nasty.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 No Duplicates
 | [N-sum](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/nsum.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 Number Fun
