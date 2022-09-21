@@ -102,18 +102,18 @@
 | [Mjehuric](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/mjehuric.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Modulo](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/modulo.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Nasty Hacks](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/nasty.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-No Duplicates
+| [No Duplicates](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/nodup.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [N-sum](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/nsum.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-Number Fun
+| [Number Fun](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/numberfun.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Odd Echo](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/oddecho.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-Oddities
-Odd Man Out
-One Chicken Per Person!
-Östgötska
-Parking
-Pet
+| [Oddities](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/Oddities.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Odd Man Out](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/oddmanout.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [One Chicken Per Person!](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/oneChicken.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Östgötska](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/ostgoska.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
+| [Parking](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/parking.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Pet](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/pet.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Phone List](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/phonelist.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-Piece of Cake!
+| [Piece of Cake!](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/pieceofcake2.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 Pizza Crust
 Planina
 Poker Hand
