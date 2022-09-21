@@ -151,7 +151,7 @@
 | [Simple Addition](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/simpleaddition.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Simple Arithmetic](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/simplearithmetic.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Skener](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/skener.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Skocimis]](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/skocimis.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Skocimis](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/skocimis.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Skru op!](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/skruop.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [SMIL](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/smil.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Soda Slurper](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/sodasurpler.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
