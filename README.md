@@ -114,18 +114,18 @@
 | [Pet](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/pet.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Phone List](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/phonelist.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Piece of Cake!](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/pieceofcake2.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-Pizza Crust
-Planina
-Poker Hand
-Popular Vote
-Pot
-Preludes
-Printing Costs
-Provinces and Gold
-Quadrant Selection
-Quality-Adjusted Life-Year
+| [Pizza Crust](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/pizzaCrust.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Planina](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/planina.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Poker Hand](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/pokerhand.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Popular Vote](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/popularVote.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Pot](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/pot.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Preludes](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/chopin.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Printing Costs](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/printingcosts.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Provinces and Gold](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/provincesandgold.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Quadrant Selection](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/quadrant.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Quality-Adjusted Life-Year](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/QALY.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Quick Brown Fox](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/quickbrownfox.java) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA) | 
-Quick Estimates
+| [Quick Estimates](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/quickestimates.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 Quite a Problem
 R2
 Railroad
@@ -133,7 +133,7 @@ Railroad
 Recount
 Relocation
 Reverse
-Reversed Binary Numbers
+| [Reversed Binary Numbers](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/reversebinary.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 Reverse Rot
 Riječi
 Roaming Romans
@@ -155,18 +155,18 @@ Skocimis
 | [Skru op!](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/skruop.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 SMIL
 Soda Slurper
-Solving for Carrots
+| [Solving for Carrots](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/carrots.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 Sort of Sorting
 Sort Two Numbers
 Soylent
-Spavanac
+| [Spavanac](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/Spavanac.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Speeding](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/speeding.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-Speed Limit
+| [Speed Limit](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/speedLimit.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 Stacking Cups
 Stand on Zanzibar
 Statistics
 Stopwatch
-Stuck In A Time Loop
+| [Stuck In A Time Loop](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/timeloop.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 Sum Kind of Problem
 Sum Squared Digits Function
 Symmetric Order
