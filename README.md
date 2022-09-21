@@ -145,31 +145,31 @@
 | [Seven Wonders](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/SevenWonder.java) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA) | 
 | [Shattered Cake](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/shatteredCake.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Shopping List (Easy)](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/shoppinglisteasy.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-Sibice
-Simon Says
-Simon Says
-Simple Addition
+| [Sibice](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/sibice.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Simon Says](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/simon.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Simon Says](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/simonsays.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Simple Addition](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/simpleaddition.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Simple Arithmetic](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/simplearithmetic.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-Skener
-Skocimis
+| [Skener](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/skener.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Skocimis]](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/skocimis.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Skru op!](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/skruop.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-SMIL
-Soda Slurper
+| [SMIL](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/smil.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
+| [Soda Slurper](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/sodasurpler.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Solving for Carrots](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/carrots.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-Sort of Sorting
-Sort Two Numbers
-Soylent
+| [Sort of Sorting](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/sortofsorting.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
+| [Sort Two Numbers](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/sorttwonumbers.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
+| [Soylent](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/soylent.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Spavanac](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/Spavanac.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Speeding](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/speeding.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Speed Limit](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/speedLimit.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-Stacking Cups
-Stand on Zanzibar
-Statistics
-Stopwatch
+| [Stacking Cups](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cups.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
+| [Stand on Zanzibar](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/StandOnZanzibar.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Statistics](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/statistics.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Stopwatch](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/stopwatch.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Stuck In A Time Loop](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/timeloop.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-Sum Kind of Problem
-Sum Squared Digits Function
-Symmetric Order
+| [Sum Kind of Problem](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/sumkindproblem.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Sum Squared Digits Function](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/sumsquaredigit.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Symmetric Order](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/SymmetricOrder.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [T9 Spelling](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/t9spelling.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Tai's formula](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/taisformula.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Take Two Stones](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/twostones.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
