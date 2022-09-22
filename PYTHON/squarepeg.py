@@ -1,0 +1,5 @@
+l, r = list(map(int,input().split()))
+circular = 2*(pow(r,2)) 
+square = pow(l,2)
+if(circular>square): print("fits")
+else: print("nope")

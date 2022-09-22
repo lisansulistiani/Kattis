@@ -33,6 +33,7 @@
 | [CD](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/cd.cpp), [CD (Py Version)](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cd.py) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B), [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON)|
 | [Cetvrta](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/cetvrta.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Chanukah Challenge](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/chanukah.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Code to Save Lives](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/codetosavelives.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Cold-puter Science](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/cold.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Count The Vowels](https://github.com/lisansulistiani/Kattis/blob/main/GO/countthevowels.go) | [Go](https://github.com/lisansulistiani/Kattis/blob/main/GO) | 
 | [Cpr-nummer](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cprnummer.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
@@ -43,9 +44,11 @@
 | [Dice Cup](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/dicecup.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Dice Game](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/dicegame.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Digit Swap](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/digitswap.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
+| [Double Password](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/doublepassword.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [DRM Messages](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/drmmessages.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Echo Echo Echo](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/echo.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Eight Queens](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/8queens.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Eligibility](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/eligibility.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Electrical Outlets](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/electricaloutlets.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Encoded Message](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/encodedmessage.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Erase Securely](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/erase.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
@@ -162,6 +165,7 @@
 | [Spavanac](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/Spavanac.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Speeding](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/speeding.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Speed Limit](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/speedLimit.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Square Peg](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/squarepeg.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Stacking Cups](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cups.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Stand on Zanzibar](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/StandOnZanzibar.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Statistics](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/statistics.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
@@ -185,6 +189,7 @@
 | [Tri](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/tri.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Triangle Area](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/triarea.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Trik](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/trik.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Triple Texting](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/tripletexting.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Two-sum](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/twosum.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Ultimate Binary Watch](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/ultimatebinarywatch.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [WERTYU](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/wertyu.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
