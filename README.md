@@ -52,6 +52,7 @@
 | [Electrical Outlets](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/electricaloutlets.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Encoded Message](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/encodedmessage.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Erase Securely](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/erase.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
+| [Estimating the Area of a Circle](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/estimatingtheareaofacircle.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Eye of Sauron](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/eyeofsauron.java) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA) | 
 | [Faktor](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/faktor.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Fifty Shades of Pink](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/fiftyshades.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
@@ -104,6 +105,7 @@
 | [Mixed Fractions](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/mixedfractions.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Mjehuric](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/mjehuric.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Modulo](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/modulo.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Mult!](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/mult.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Nasty Hacks](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/nasty.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [No Duplicates](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/nodup.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [N-sum](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/nsum.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
@@ -125,6 +127,7 @@
 | [Preludes](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/chopin.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Printing Costs](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/printingcosts.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Provinces and Gold](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/provincesandgold.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Ptice](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/ptice.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Quadrant Selection](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/quadrant.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Quality-Adjusted Life-Year](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/QALY.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Quick Brown Fox](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/quickbrownfox.java) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA) | 
