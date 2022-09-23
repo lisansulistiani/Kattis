@@ -46,6 +46,7 @@
 | [Digit Swap](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/digitswap.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Double Password](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/doublepassword.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [DRM Messages](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/drmmessages.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [	Drunk Vigenère](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/drunkvigenere.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Echo Echo Echo](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/echo.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Eight Queens](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/8queens.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Eligibility](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/eligibility.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
@@ -88,6 +89,7 @@
 | [Judging Moose](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/judgingamoose.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Jumbled Compass](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/compass.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Jumbo Javelin](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/jumbojavelin.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Karte](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/karte.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Kemija](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/kemija08.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Knot Knowledge](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/knotknowledge.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Kornislav](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/kornislav.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
