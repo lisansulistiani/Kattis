@@ -144,6 +144,7 @@
 | [Saving Daylight](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/savingdaylight.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Saving For Retirement](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/savingforretirement.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Secret Message](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/secretmessage.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Sequre Doors](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/sequredoors.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Server](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/server.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Seven Wonders](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/SevenWonder.java) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA) | 
 | [Shattered Cake](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/shatteredCake.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
@@ -174,6 +175,7 @@
 | [Sum Kind of Problem](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/sumkindproblem.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Sum Squared Digits Function](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/sumsquaredigit.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Symmetric Order](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/SymmetricOrder.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Synchronizing Lists](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/synchronizinglists.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [T9 Spelling](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/t9spelling.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Tai's formula](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/taisformula.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Take Two Stones](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/twostones.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
