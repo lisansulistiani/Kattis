@@ -31,10 +31,12 @@
 | [Booking a Room](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/bookingaroom.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Building Pyramids](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/pyramids.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [CD](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/cd.cpp), [CD (Py Version)](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cd.py) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B), [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON)|
+| [Cetiri](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cetiri.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Cetvrta](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/cetvrta.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Chanukah Challenge](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/chanukah.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Code to Save Lives](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/codetosavelives.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Cold-puter Science](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/cold.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Compound Words](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/compoundwords.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Count The Vowels](https://github.com/lisansulistiani/Kattis/blob/main/GO/countthevowels.go) | [Go](https://github.com/lisansulistiani/Kattis/blob/main/GO) | 
 | [Cpr-nummer](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cprnummer.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Cryptographer's Conundrum](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/conundrum.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
