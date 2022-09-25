@@ -18,9 +18,11 @@
 | [Army Strength (Easy)](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/armystrengtheasy.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Arrangement](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/upprodun.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Autori](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/autori.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [	Average Character](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/averagecharacter.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Avion](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/avion.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Babelfish](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/babelfish.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Backspace](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/backspace.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
+| [	Bacon, Eggs, and Spam](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/baconeggsandspam.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Batter Up](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/baterrup.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Bela](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/bela.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Betting](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/betting.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
@@ -45,6 +47,7 @@
 | [Detailed Differences](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/detaileddifferences.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Dice Cup](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/dicecup.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Dice Game](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/dicegame.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Digit Product](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/sifferprodukt.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Digit Swap](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/digitswap.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Double Password](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/doublepassword.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [DRM Messages](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/drmmessages.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
@@ -67,6 +70,7 @@
 | [Forced Choice](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/forcedchoice.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Free Food](https://github.com/lisansulistiani/Kattis/blob/main/C%23/freefood.cs) | [C#](https://github.com/lisansulistiani/Kattis/blob/main/C%23) | 
 | [FYI](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/fyi.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
+| [GCD](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/gcd.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [GCVWR](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/gcvwr.java) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA) | 
 | [Grading](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/grading.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Grass Seed Inc.](https://github.com/lisansulistiani/Kattis/tree/main/C/grassseed.c) | [C](https://github.com/lisansulistiani/Kattis/tree/main/C) |
