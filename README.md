@@ -21,6 +21,7 @@
 | [	Average Character](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/averagecharacter.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Avion](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/avion.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Babelfish](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/babelfish.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
+| [Baby Bites](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/babybites.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Backspace](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/backspace.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [	Bacon, Eggs, and Spam](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/baconeggsandspam.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Batter Up](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/baterrup.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
