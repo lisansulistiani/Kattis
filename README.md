@@ -206,8 +206,10 @@
 | [Triangle Area](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/triarea.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Trik](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/trik.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Triple Texting](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/tripletexting.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Two-sum](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/twosum.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Two-sum](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/twosum.cpp) | [C++](https://github.com/
+lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Ultimate Binary Watch](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/ultimatebinarywatch.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
+| [Un-bear-able Zoo](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/zoo.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [WERTYU](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/wertyu.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [What does the fox say?](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/whatdoesthefoxsay.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Which is Greater?](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/whichisgreater.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
