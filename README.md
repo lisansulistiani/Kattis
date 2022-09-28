@@ -15,6 +15,7 @@
 | [A New Alphabet](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/anewalphabet.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Apaxiaaaaaaaaaaaans!](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/apaxiaaans.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [A Real Challenge](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/areal.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Arithmetic Functions](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/arithmeticfunctions.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Army Strength (Easy)](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/armystrengtheasy.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Arrangement](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/upprodun.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Autori](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/autori.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
@@ -77,6 +78,7 @@
 | [Grading](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/grading.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Grass Seed Inc.](https://github.com/lisansulistiani/Kattis/tree/main/C/grassseed.c) | [C](https://github.com/lisansulistiani/Kattis/tree/main/C) |
 | [Greetings!](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/greetings2.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Hailstone Sequences](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/hailstone2.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Hanging Out on the Terrace](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/hangingout.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Hangman](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/hangman.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Harshad Numbers](https://github.com/lisansulistiani/Kattis/blob/main/C%23/harshadnumbers.cs) | [C#](https://github.com/lisansulistiani/Kattis/blob/main/C%23) | 
