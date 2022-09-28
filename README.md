@@ -202,6 +202,7 @@
 | [The Easiest Problem Is This One](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/easiest.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [The Key to Cryptography](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/keytocrypto.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [The Owl and the Fox](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/owlandfox.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Tower Construction](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/tornbygge.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Transit Woes](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/transitwoes.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Tri](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/tri.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Triangle Area](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/triarea.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
