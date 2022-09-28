@@ -24,6 +24,7 @@
 | [Baby Bites](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/babybites.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Backspace](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/backspace.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [	Bacon, Eggs, and Spam](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/baconeggsandspam.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
+| [ Basketball One-on-One](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/basketballoneonone.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Batter Up](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/baterrup.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Bela](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/bela.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Betting](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/betting.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
