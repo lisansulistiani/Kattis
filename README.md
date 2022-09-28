@@ -94,6 +94,7 @@
 | [Jack-O'-Lantern Juxtaposition](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/jackolanternjuxtaposition.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Janitor Troubles](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/janitortroubles.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Job Expenses](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/jobexpenses.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Joint Jog Jam](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/jointjogjam.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Judging Moose](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/judgingamoose.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Jumbled Compass](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/compass.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Jumbo Javelin](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/jumbojavelin.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
