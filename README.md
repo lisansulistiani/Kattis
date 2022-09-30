@@ -110,6 +110,7 @@
 | [Left Beehind](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/leftbeehind.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [License to Launch](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/licensetolaunch.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Line Them Up](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/lineup.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
+| [Logic Functions](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/logicfunctions.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Luhn's Checksum Algorithm](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/luhnchecksum.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Magic Trick](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/magictrick.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Math Worksheet - Py Version](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/mathworksheet.py), [Math Worksheet - C++ Version](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/mathworksheet.cpp) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON), [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) | 
