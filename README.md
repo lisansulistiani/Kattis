@@ -46,6 +46,7 @@
 | [Cpr-nummer](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cprnummer.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Cryptographer's Conundrum](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/conundrum.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Cudoviste](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cudoviste.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
+| [Cut in Line](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cutinline.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Datum](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/datum.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Detailed Differences](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/detaileddifferences.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Dice Cup](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/dicecup.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
