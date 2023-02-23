@@ -39,6 +39,7 @@
 | [Cetiri](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cetiri.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Cetvrta](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/cetvrta.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Chanukah Challenge](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/chanukah.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Class Field Trip](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/classfieldtrip.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Code to Save Lives](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/codetosavelives.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Cold-puter Science](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/cold.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Compound Words](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/compoundwords.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
@@ -103,6 +104,7 @@
 | [Jumbo Javelin](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/jumbojavelin.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Karte](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/karte.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Kemija](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/kemija08.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
+| [	Knight Packing](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/	knightpacking.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Knot Knowledge](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/knotknowledge.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Kornislav](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/kornislav.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Ladder](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/ladder.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
@@ -115,6 +117,7 @@
 | [Luhn's Checksum Algorithm](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/luhnchecksum.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Magic Trick](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/magictrick.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Math Worksheet - Py Version](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/mathworksheet.py), [Math Worksheet - C++ Version](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/mathworksheet.cpp) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON), [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) | 
+| [Metronome](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/metronome.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Mirror Images](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/mirror.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Missing Numbers](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/missingnumbers.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Mixed Fractions](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/mixedfractions.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
@@ -138,6 +141,7 @@
 | [Piece of Cake!](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/pieceofcake2.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Pizza Crust](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/pizzaCrust.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Planina](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/planina.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [Pokechat](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/pokechat.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Poker Hand](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/pokerhand.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Popular Vote](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/popularVote.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Pot](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/pot.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |

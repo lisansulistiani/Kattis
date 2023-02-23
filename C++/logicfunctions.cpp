@@ -16,7 +16,7 @@ void implies(bool x, bool y, bool& ans){
     }
     else{
         if(y) ans = true;
-        else ans = false;
+        else ans = true;
     }
 }
 
