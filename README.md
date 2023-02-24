@@ -35,6 +35,7 @@
 | [Boat Parts](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/boatparts.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Booking a Room](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/bookingaroom.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Building Pyramids](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/pyramids.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
+| [	Canadians, eh?](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/canadianseh.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [CD](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/cd.cpp), [CD (Py Version)](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cd.py) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B), [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON)|
 | [Cetiri](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cetiri.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Cetvrta](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/cetvrta.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
@@ -104,6 +105,7 @@
 | [Jumbo Javelin](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/jumbojavelin.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Karte](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/karte.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Kemija](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/kemija08.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
+| [Kleptography](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/kleptography.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Knight Packing](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/knightpacking.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Knot Knowledge](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/knotknowledge.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Kornislav](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/kornislav.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
@@ -158,6 +160,7 @@
 | [Railroad](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/railroad.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Rating Problems](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/ratingproblems.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Recount](https://github.com/lisansulistiani/Kattis/blob/main/C%23/recount.cs) | [C#](https://github.com/lisansulistiani/Kattis/blob/main/C%23) | 
+| [Rectangle Area](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/rectanglearea.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Relocation](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/relocation.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Reverse](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/ofugsnuid.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Reversed Binary Numbers](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/reversebinary.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
@@ -210,6 +213,7 @@
 | [The Amazing Human Cannonball](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/humancanonball2.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [The Easiest Problem Is This One](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/easiest.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [The Key to Cryptography](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/keytocrypto.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [	The Last Problem](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/thelastproblem.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [The Owl and the Fox](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/owlandfox.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
 | [Tower Construction](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/tornbygge.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
 | [Transit Woes](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/transitwoes.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
