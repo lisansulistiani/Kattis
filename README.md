@@ -103,7 +103,7 @@
 | [Honour Thy (Apaxian) Parent](https://open.kattis.com/problems/apaxianparent) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/apaxianparent.cpp) |
 | [ICPC Awards](https://open.kattis.com/problems/icpcawards) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/icpcaward.cpp) |
 | [Imperial Measurement](https://open.kattis.com/problems/measurement) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/measurement.cpp) |
-| [IsItHalloween.com](https://open.kattis.com/problems/isithalloween) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/isithallowen.cpp) |
+| [IsItHalloween.com](https://open.kattis.com/problems/isithalloween) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/isithalloween.cpp) |
 | [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | [C#](https://github.com/lisansulistiani/Kattis/blob/main/C%23/everywhere.cs) |
 | [Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/jackolanternjuxtaposition.cpp) |
 | [Jabuke](https://open.kattis.com/problems/jabuke) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/jabuke.py) |
@@ -217,7 +217,7 @@
 | [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/timeloop.cpp) |
 | [Sum Kind of Problem](https://open.kattis.com/problems/sumkindofproblem) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/sumkindproblem.cpp) |
 | [Sum Squared Digits Function](https://open.kattis.com/problems/sumsquareddigits) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/sumsquaredigit.cpp) |
-| [Symmetric Order](https://open.kattis.com/problems/symmetricorder) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/SymmetricOrder.cpp) |
+| [Symmetric Order](https://open.kattis.com/problems/symmetricorder) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/symmetricorder.cpp) |
 | [Synchronizing Lists](https://open.kattis.com/problems/synchronizinglists) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/synchronizinglists.py) |
 | [T9 Spelling](https://open.kattis.com/problems/t9spelling) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/t9spelling.py) |
 | [Tai's formula](https://open.kattis.com/problems/taisformula) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/taisformula.cpp) |
