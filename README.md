@@ -2,7 +2,7 @@
 ## Problems
 | Problem | Languages |
 | - | - |
-| [2048](https://open.kattis.com/problems/2048) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/2048.py) |
+| [2048](https://open.kattis.com/problems/2048){:target="_blank"} | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/2048.py) |
 | [3D Printed Statues](https://open.kattis.com/problems/3dprinter) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/3dprinter.py) |
 | [99 Problems](https://open.kattis.com/problems/99problems) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/99problems.py) |
 | [Aaah!](https://open.kattis.com/problems/aaah) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/aaah.cpp) |
@@ -94,7 +94,7 @@
 | [Harshad Numbers](https://open.kattis.com/problems/harshadnumbers) | [C#](https://github.com/lisansulistiani/Kattis/blob/main/C%23/harshadnumbers.cs) |
 | [Heart Rate](https://open.kattis.com/problems/heartrate) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/heartrate.cpp) |
 | [Heir's Dilemma](https://open.kattis.com/problems/heirsdilemma) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/heirsdilemma.py) |
-| [Hello World!](https://open.kattis.com/problems/helloworld) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/helloworld.cpp), [C](https://github.com/lisansulistiani/Kattis/tree/main/C/helloWorld.c) |
+| [Hello World!](https://open.kattis.com/problems/hello) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/helloworld.cpp), [C](https://github.com/lisansulistiani/Kattis/tree/main/C/helloWorld.c) |
 | [Help a PhD candidate out!](https://open.kattis.com/problems/helpaphd) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/helpaphd.py) |
 | [Help Me With The Game](https://open.kattis.com/problems/helpme) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/helpme.py) |
 | [Herman](https://open.kattis.com/problems/herman) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/herman.cpp) |
