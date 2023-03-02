@@ -98,19 +98,19 @@
 | [Help a PhD candidate out!](https://open.kattis.com/problems/helpaphd) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/helpaphd.py) |
 | [Help Me With The Game](https://open.kattis.com/problems/helpme) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/helpme.py) |
 | [Herman](https://open.kattis.com/problems/herman) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/herman.cpp) |
-| [Hissing Microphone](https://open.kattis.com/problems/hissing) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/hissing.cpp) |
+| [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/hissing.cpp) |
 | [Homework](https://open.kattis.com/problems/homework) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/homework.java) |
 | [Honour Thy (Apaxian) Parent](https://open.kattis.com/problems/apaxianparent) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/apaxianparent.cpp) |
-| [ICPC Awards](https://open.kattis.com/problems/icpcaward) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/icpcaward.cpp) |
+| [ICPC Awards](https://open.kattis.com/problems/icpcawards) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/icpcaward.cpp) |
 | [Imperial Measurement](https://open.kattis.com/problems/measurement) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/measurement.cpp) |
-| [IsItHalloween.com](https://open.kattis.com/problems/isithallowen) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/isithallowen.cpp) |
+| [IsItHalloween.com](https://open.kattis.com/problems/isithalloween) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/isithallowen.cpp) |
 | [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | [C#](https://github.com/lisansulistiani/Kattis/blob/main/C%23/everywhere.cs) |
 | [Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/jackolanternjuxtaposition.cpp) |
 | [Jabuke](https://open.kattis.com/problems/jabuke) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/jabuke.py) |
 | [Janitor Troubles](https://open.kattis.com/problems/janitortroubles) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/janitortroubles.py) |
 | [Job Expenses](https://open.kattis.com/problems/jobexpenses) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/jobexpenses.cpp) |
 | [Joint Jog Jam](https://open.kattis.com/problems/jointjogjam) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/jointjogjam.py) |
-| [Judging Moose](https://open.kattis.com/problems/judgingamoose) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/judgingamoose.py) |
+| [Judging Moose](https://open.kattis.com/problems/judgingmoose) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/judgingamoose.py) |
 | [Jumbled Compass](https://open.kattis.com/problems/compass) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/compass.cpp) |
 | [Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/jumbojavelin.cpp) |
 | [Karte](https://open.kattis.com/problems/karte) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/karte.py) |
@@ -140,15 +140,15 @@
 | [Modulo](https://open.kattis.com/problems/modulo) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/modulo.cpp) |
 | [Mult!](https://open.kattis.com/problems/mult) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/mult.py) |
 | [Musical Scales](https://open.kattis.com/problems/musicalscales) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/musicalscales.py) |
-| [Nasty Hacks](https://open.kattis.com/problems/nasty) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/nasty.cpp) |
+| [Nasty Hacks](https://open.kattis.com/problems/nastyhacks) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/nasty.cpp) |
 | [No Duplicates](https://open.kattis.com/problems/nodup) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/nodup.py) |
 | [N-sum](https://open.kattis.com/problems/nsum) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/nsum.py) |
 | [Number Fun](https://open.kattis.com/problems/numberfun) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/numberfun.cpp) |
 | [Odd Echo](https://open.kattis.com/problems/oddecho) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/oddecho.py) |
-| [Oddities](https://open.kattis.com/problems/Oddities) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/Oddities.cpp) |
+| [Oddities](https://open.kattis.com/problems/oddities) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/Oddities.cpp) |
 | [Odd Man Out](https://open.kattis.com/problems/oddmanout) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/oddmanout.cpp) |
-| [One Chicken Per Person!](https://open.kattis.com/problems/oneChicken) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/oneChicken.cpp) |
-| [Östgötska](https://open.kattis.com/problems/ostgoska) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/ostgoska.py) |
+| [One Chicken Per Person!](https://open.kattis.com/problems/onechicken) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/oneChicken.cpp) |
+| [Östgötska](https://open.kattis.com/problems/ostgotska) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/ostgoska.py) |
 | [Overdraft](https://open.kattis.com/problems/overdraft) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/overdraft.py) |
 | [Parking](https://open.kattis.com/problems/parking) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/parking.cpp) |
 | [Paul Eigon](https://open.kattis.com/problems/pauleigon) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/pauleigon.py) |
@@ -156,11 +156,11 @@
 | [Pet](https://open.kattis.com/problems/pet) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/pet.cpp) |
 | [Phone List](https://open.kattis.com/problems/phonelist) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/phonelist.py) |
 | [Piece of Cake!](https://open.kattis.com/problems/pieceofcake2) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/pieceofcake2.cpp) |
-| [Pizza Crust](https://open.kattis.com/problems/pizzaCrust) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/pizzaCrust.cpp) |
+| [Pizza Crust](https://open.kattis.com/problems/pizza2) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/pizzaCrust.cpp) |
 | [Planina](https://open.kattis.com/problems/planina) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/planina.cpp) |
 | [Pokechat](https://open.kattis.com/problems/pokechat) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/pokechat.py) |
 | [Poker Hand](https://open.kattis.com/problems/pokerhand) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/pokerhand.cpp) |
-| [Popular Vote](https://open.kattis.com/problems/popularVote) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/popularVote.cpp) |
+| [Popular Vote](https://open.kattis.com/problems/vote) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/popularVote.cpp) |
 | [Pot](https://open.kattis.com/problems/pot) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/pot.cpp) |
 | [Preludes](https://open.kattis.com/problems/chopin) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/chopin.cpp) |
 | [Printing Costs](https://open.kattis.com/problems/printingcosts) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/printingcosts.cpp) |
@@ -170,9 +170,9 @@
 | [Quadrant Selection](https://open.kattis.com/problems/quadrant) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/quadrant.cpp) |
 | [Quality-Adjusted Life-Year](https://open.kattis.com/problems/QALY) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/QALY.cpp) |
 | [Quick Brown Fox](https://open.kattis.com/problems/quickbrownfox) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/quickbrownfox.java) |
-| [Quick Estimates](https://open.kattis.com/problems/quickestimates) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/quickestimates.cpp) |
+| [Quick Estimates](https://open.kattis.com/problems/quickestimate) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/quickestimates.cpp) |
 | [Quite a Problem](https://open.kattis.com/problems/quiteaproblem) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/quiteaproblem.py) |
-| [R2](https://open.kattis.com/problems/R2) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/R2.cpp) |
+| [R2](https://open.kattis.com/problems/r2) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/R2.cpp) |
 | [Railroad](https://open.kattis.com/problems/railroad) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/railroad.cpp) |
 | [Rating Problems](https://open.kattis.com/problems/ratingproblems) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/ratingproblems.py) |
 | [Recount](https://open.kattis.com/problems/recount) | [C#](https://github.com/lisansulistiani/Kattis/blob/main/C%23/recount.cs) |
@@ -180,17 +180,17 @@
 | [Relocation](https://open.kattis.com/problems/relocation) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/relocation.cpp) |
 | [Reverse](https://open.kattis.com/problems/ofugsnuid) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/ofugsnuid.cpp) |
 | [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/reversebinary.cpp) |
-| [Reverse Rot](https://open.kattis.com/problems/reverseRot) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/reverseRot.cpp) |
+| [Reverse Rot](https://open.kattis.com/problems/reverserot) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/reverseRot.cpp) |
 | [Riječi](https://open.kattis.com/problems/rijeci) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/rijeci.cpp) |
 | [Roaming Romans](https://open.kattis.com/problems/romans) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/romans.cpp) |
 | [Run-Length Encoding, Run!](https://open.kattis.com/problems/runlengthencodingrun) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/runlengthencodingrun.cpp) |
 | [Saving Daylight](https://open.kattis.com/problems/savingdaylight) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/savingdaylight.cpp) |
 | [Saving For Retirement](https://open.kattis.com/problems/savingforretirement) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/savingforretirement.cpp) |
 | [Secret Message](https://open.kattis.com/problems/secretmessage) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/secretmessage.cpp) |
-| [Sequre Doors](https://open.kattis.com/problems/sequredoors) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/sequredoors.py) |
+| [Secure Doors](https://open.kattis.com/problems/securedoors) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/securedoors.py) |
 | [Server](https://open.kattis.com/problems/server) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/server.cpp) |
-| [Seven Wonders](https://open.kattis.com/problems/SevenWonder) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/SevenWonder.java) |
-| [Shattered Cake](https://open.kattis.com/problems/shatteredCake) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/shatteredCake.py) |
+| [Seven Wonders](https://open.kattis.com/problems/sevenwonders) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/SevenWonder.java) |
+| [Shattered Cake](https://open.kattis.com/problems/shatteredcake) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/shatteredCake.py) |
 | [Shopping List (Easy)](https://open.kattis.com/problems/shoppinglisteasy) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/shoppinglisteasy.py) |
 | [Sibice](https://open.kattis.com/problems/sibice) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/sibice.cpp) |
 | [Simon Says](https://open.kattis.com/problems/simon) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/simon.cpp) |
@@ -201,23 +201,23 @@
 | [Skocimis](https://open.kattis.com/problems/skocimis) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/skocimis.cpp) |
 | [Skru op!](https://open.kattis.com/problems/skruop) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/skruop.py) |
 | [SMIL](https://open.kattis.com/problems/smil) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/smil.py) |
-| [Soda Slurper](https://open.kattis.com/problems/sodasurpler) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/sodasurpler.cpp) |
+| [Soda Slurper](https://open.kattis.com/problems/sodaslurper) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/sodasurpler.cpp) |
 | [Solving for Carrots](https://open.kattis.com/problems/carrots) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/carrots.cpp) |
 | [Sort of Sorting](https://open.kattis.com/problems/sortofsorting) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/sortofsorting.py) |
 | [Sort Two Numbers](https://open.kattis.com/problems/sorttwonumbers) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/sorttwonumbers.py) |
 | [Soylent](https://open.kattis.com/problems/soylent) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/soylent.cpp) |
-| [Spavanac](https://open.kattis.com/problems/Spavanac) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/Spavanac.cpp) |
+| [Spavanac](https://open.kattis.com/problems/spavanac) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/Spavanac.cpp) |
 | [Speeding](https://open.kattis.com/problems/speeding) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/speeding.cpp) |
-| [Speed Limit](https://open.kattis.com/problems/speedLimit) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/speedLimit.cpp) |
+| [Speed Limit](https://open.kattis.com/problems/speedlimit) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/speedLimit.cpp) |
 | [Square Peg](https://open.kattis.com/problems/squarepeg) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/squarepeg.py) |
 | [Stacking Cups](https://open.kattis.com/problems/cups) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cups.py) |
-| [Stand on Zanzibar](https://open.kattis.com/problems/StandOnZanzibar) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/StandOnZanzibar.cpp) |
+| [Stand on Zanzibar](https://open.kattis.com/problems/zanzibar) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/zanzibar.cpp) |
 | [Statistics](https://open.kattis.com/problems/statistics) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/statistics.cpp) |
 | [Stopwatch](https://open.kattis.com/problems/stopwatch) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/stopwatch.cpp) |
 | [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/timeloop.cpp) |
-| [Sum Kind of Problem](https://open.kattis.com/problems/sumkindproblem) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/sumkindproblem.cpp) |
-| [Sum Squared Digits Function](https://open.kattis.com/problems/sumsquaredigit) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/sumsquaredigit.cpp) |
-| [Symmetric Order](https://open.kattis.com/problems/SymmetricOrder) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/SymmetricOrder.cpp) |
+| [Sum Kind of Problem](https://open.kattis.com/problems/sumkindofproblem) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/sumkindproblem.cpp) |
+| [Sum Squared Digits Function](https://open.kattis.com/problems/sumsquareddigits) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/sumsquaredigit.cpp) |
+| [Symmetric Order](https://open.kattis.com/problems/symmetricorder) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/SymmetricOrder.cpp) |
 | [Synchronizing Lists](https://open.kattis.com/problems/synchronizinglists) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/synchronizinglists.py) |
 | [T9 Spelling](https://open.kattis.com/problems/t9spelling) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/t9spelling.py) |
 | [Tai's formula](https://open.kattis.com/problems/taisformula) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/taisformula.cpp) |
@@ -226,7 +226,7 @@
 | [Tastelogger](https://open.kattis.com/problems/keylogger) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/keylogger.py) |
 | [Teque](https://open.kattis.com/problems/teque) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/teque.py) |
 | [Tetration](https://open.kattis.com/problems/tetration) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/tetration.py) |
-| [The Amazing Human Cannonball](https://open.kattis.com/problems/humancanonball2) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/humancanonball2.cpp) |
+| [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/humancanonball2.cpp) |
 | [The Easiest Problem Is This One](https://open.kattis.com/problems/easiest) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/easiest.cpp) |
 | [The Key to Cryptography](https://open.kattis.com/problems/keytocrypto) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/keytocrypto.cpp) |
 | [The Last Problem](https://open.kattis.com/problems/thelastproblem) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/thelastproblem.py) |
