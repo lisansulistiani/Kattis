@@ -2,251 +2,251 @@
 ## Problems
 | Problem | Languages |
 | - | - |
-| [2048](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/2048.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [3D Printed Statues](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/3dprinter.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [99 Problems](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/99problems.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Aaah!](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/aaah.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [ABC](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/abc.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Above Average](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/aboveaverage.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [ACM Contest Scoring](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/acm.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Add Two Number](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/addtwonumbers.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [A Different Problem](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/different.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Alphabet Spam](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/alphabetSpam.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [A New Alphabet](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/anewalphabet.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Apaxiaaaaaaaaaaaans!](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/apaxiaaans.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [A Real Challenge](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/areal.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Arithmetic Functions](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/arithmeticfunctions.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Army Strength (Easy)](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/armystrengtheasy.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Arrangement](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/upprodun.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Autori](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/autori.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [	Average Character](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/averagecharacter.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Avion](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/avion.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Babelfish](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/babelfish.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Baby Bites](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/babybites.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Backspace](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/backspace.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [	Bacon, Eggs, and Spam](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/baconeggsandspam.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [ Basketball One-on-One](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/basketballoneonone.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Batter Up](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/baterrup.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Bela](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/bela.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Betting](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/betting.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Bijele](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/bijele.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Birthday Memorization](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/fodelsedagsmemorisering.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Black Friday](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/blackfriday.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Blueberry Waffle](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/blueberrywaffle.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Boat Parts](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/boatparts.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Booking a Room](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/bookingaroom.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Building Pyramids](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/pyramids.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [	Canadians, eh?](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/canadianseh.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [CD](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/cd.cpp), [CD (Py Version)](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cd.py) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B), [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON)|
-| [Cetiri](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cetiri.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Cetvrta](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/cetvrta.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Chanukah Challenge](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/chanukah.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Class Field Trip](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/classfieldtrip.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Code to Save Lives](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/codetosavelives.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Coffee Cup Combo](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/coffeecupcombo.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Cold-puter Science](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/cold.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Compound Words](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/compoundwords.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Count The Vowels](https://github.com/lisansulistiani/Kattis/blob/main/GO/countthevowels.go) | [Go](https://github.com/lisansulistiani/Kattis/blob/main/GO) | 
-| [Counting Clauses](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/countingclauses.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Cpr-nummer](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cprnummer.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Cryptographer's Conundrum](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/conundrum.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Cudoviste](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cudoviste.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Cut in Line](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cutinline.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Cut the Negativity](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cutthenegativity.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Datum](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/datum.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Detailed Differences](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/detaileddifferences.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Dice Cup](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/dicecup.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Dice Game](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/dicegame.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Digit Product](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/sifferprodukt.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Digit Swap](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/digitswap.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Divvying Up](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/divvyingup.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Double Password](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/doublepassword.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [DRM Messages](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/drmmessages.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [	Drunk Vigenère](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/drunkvigenere.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Echo Echo Echo](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/echo.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Eight Queens](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/8queens.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Eligibility](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/eligibility.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Electrical Outlets](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/electricaloutlets.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Emag Eht Htiw Em Pleh](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/empleh.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Encoded Message](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/encodedmessage.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Erase Securely](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/erase.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Estimating the Area of a Circle](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/estimatingtheareaofacircle.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Eye of Sauron](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/eyeofsauron.java) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA) | 
-| [	Fading Wind](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/fadingwind.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Faktor](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/faktor.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Fifty Shades of Pink](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/fiftyshades.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Filip](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/filip.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Final Exam](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/finalexam2.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Finding An A](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/findingAnA.java) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA) | 
-| [FizzBuzz](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/FizzBuzz.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Flexible Spaces](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/flexible.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Forced Choice](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/forcedchoice.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Free Food](https://github.com/lisansulistiani/Kattis/blob/main/C%23/freefood.cs) | [C#](https://github.com/lisansulistiani/Kattis/blob/main/C%23) | 
-| [FYI](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/fyi.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [GCD](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/gcd.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [GCVWR](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/gcvwr.java) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA) | 
-| [Grading](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/grading.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Grass Seed Inc.](https://github.com/lisansulistiani/Kattis/tree/main/C/grassseed.c) | [C](https://github.com/lisansulistiani/Kattis/tree/main/C) |
-| [Greetings!](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/greetings2.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Hailstone Sequences](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/hailstone2.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Hanging Out on the Terrace](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/hangingout.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Hangman](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/hangman.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Harshad Numbers](https://github.com/lisansulistiani/Kattis/blob/main/C%23/harshadnumbers.cs) | [C#](https://github.com/lisansulistiani/Kattis/blob/main/C%23) | 
-| [Heart Rate](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/heartrate.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Heir's Dilemma](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/heirsdilemma.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Hello World! - C++ Version](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/helloworld.cpp), [Hello World! - C Version](https://github.com/lisansulistiani/Kattis/tree/main/C/helloWorld.c) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B), [C](https://github.com/lisansulistiani/Kattis/tree/main/C) |
-| [Help a PhD candidate out!](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/helpaphd.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Help Me With The Game](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/helpme.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Herman](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/herman.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Hissing Microphone](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/hissing.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Homework](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/homework.java) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA) | 
-| [Honour Thy (Apaxian) Parent](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/apaxianparent.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [ICPC Awards](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/icpcaward.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Imperial Measurement](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/measurement.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [IsItHalloween.com](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/isithallowen.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [I've Been Everywhere, Man](https://github.com/lisansulistiani/Kattis/blob/main/C%23/everywhere.cs) | [C#](https://github.com/lisansulistiani/Kattis/blob/main/C%23) | 
-| [Jack-O'-Lantern Juxtaposition](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/jackolanternjuxtaposition.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Jabuke](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/jabuke.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Janitor Troubles](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/janitortroubles.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Job Expenses](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/jobexpenses.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Joint Jog Jam](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/jointjogjam.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Judging Moose](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/judgingamoose.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Jumbled Compass](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/compass.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Jumbo Javelin](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/jumbojavelin.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Karte](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/karte.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Kemija](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/kemija08.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Kleptography](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/kleptography.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Knight Packing](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/knightpacking.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Knot Knowledge](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/knotknowledge.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Kornislav](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/kornislav.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Ladder](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/ladder.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Laptop Sticker](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/laptopsticker.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Last Factorial Digit](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/lastfactorialdigit.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Left Beehind](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/leftbeehind.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [License to Launch](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/licensetolaunch.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Line Them Up](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/lineup.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Logic Functions](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/logicfunctions.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Lost Lineup](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/lostlineup.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Luhn's Checksum Algorithm](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/luhnchecksum.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Magic Trick](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/magictrick.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Math Worksheet - Py Version](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/mathworksheet.py), [Math Worksheet - C++ Version](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/mathworksheet.cpp) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON), [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) | 
-| [Methodic Multiplication](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/methodicmultiplication.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Metronome](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/metronome.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Mirror Images](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/mirror.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Missing Numbers](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/missingnumbers.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Mixed Fractions](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/mixedfractions.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Mjehuric](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/mjehuric.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Moderate Pace](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/moderatepace.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Modulo](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/modulo.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Mult!](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/mult.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Musical Scales](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/musicalscales.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Nasty Hacks](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/nasty.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [No Duplicates](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/nodup.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [N-sum](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/nsum.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Number Fun](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/numberfun.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Odd Echo](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/oddecho.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Oddities](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/Oddities.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Odd Man Out](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/oddmanout.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [One Chicken Per Person!](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/oneChicken.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Östgötska](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/ostgoska.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Overdraft](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/overdraft.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Parking](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/parking.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Paul Eigon](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/pauleigon.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [	Pervasive Heart Monitor](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/pervasiveheartmonitor.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Pet](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/pet.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Phone List](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/phonelist.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Piece of Cake!](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/pieceofcake2.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Pizza Crust](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/pizzaCrust.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Planina](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/planina.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Pokechat](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/pokechat.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Poker Hand](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/pokerhand.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Popular Vote](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/popularVote.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Pot](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/pot.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Preludes](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/chopin.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Printing Costs](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/printingcosts.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Provinces and Gold](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/provincesandgold.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [	Prsteni](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/prsteni.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Ptice](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/ptice.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Quadrant Selection](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/quadrant.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Quality-Adjusted Life-Year](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/QALY.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Quick Brown Fox](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/quickbrownfox.java) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA) | 
-| [Quick Estimates](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/quickestimates.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Quite a Problem](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/quiteaproblem.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [R2](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/R2.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Railroad](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/railroad.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Rating Problems](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/ratingproblems.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Recount](https://github.com/lisansulistiani/Kattis/blob/main/C%23/recount.cs) | [C#](https://github.com/lisansulistiani/Kattis/blob/main/C%23) | 
-| [Rectangle Area](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/rectanglearea.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Relocation](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/relocation.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Reverse](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/ofugsnuid.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Reversed Binary Numbers](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/reversebinary.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Reverse Rot](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/reverseRot.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Riječi](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/rijeci.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Roaming Romans](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/romans.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Run-Length Encoding, Run!](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/runlengthencodingrun.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Saving Daylight](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/savingdaylight.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Saving For Retirement](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/savingforretirement.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Secret Message](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/secretmessage.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Sequre Doors](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/sequredoors.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Server](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/server.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Seven Wonders](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/SevenWonder.java) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA) | 
-| [Shattered Cake](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/shatteredCake.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Shopping List (Easy)](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/shoppinglisteasy.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Sibice](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/sibice.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Simon Says](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/simon.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Simon Says](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/simonsays.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Simple Addition](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/simpleaddition.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Simple Arithmetic](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/simplearithmetic.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Skener](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/skener.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Skocimis](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/skocimis.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Skru op!](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/skruop.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [SMIL](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/smil.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Soda Slurper](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/sodasurpler.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Solving for Carrots](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/carrots.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Sort of Sorting](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/sortofsorting.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Sort Two Numbers](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/sorttwonumbers.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Soylent](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/soylent.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Spavanac](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/Spavanac.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Speeding](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/speeding.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Speed Limit](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/speedLimit.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Square Peg](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/squarepeg.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Stacking Cups](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cups.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Stand on Zanzibar](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/StandOnZanzibar.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Statistics](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/statistics.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Stopwatch](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/stopwatch.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Stuck In A Time Loop](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/timeloop.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Sum Kind of Problem](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/sumkindproblem.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Sum Squared Digits Function](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/sumsquaredigit.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Symmetric Order](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/SymmetricOrder.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Synchronizing Lists](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/synchronizinglists.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [T9 Spelling](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/t9spelling.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Tai's formula](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/taisformula.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Take Two Stones](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/twostones.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Tarifa](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/tarifa.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Tastelogger](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/keylogger.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Teque](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/teque.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Tetration](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/tetration.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [The Amazing Human Cannonball](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/humancanonball2.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [The Easiest Problem Is This One](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/easiest.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [The Key to Cryptography](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/keytocrypto.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [The Last Problem](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/thelastproblem.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [The Owl and the Fox](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/owlandfox.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [This Ain't Your Grandpa's Checkerboard](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/thisaintyourgrandpascheckerboard.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Tower Construction](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/tornbygge.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Transit Woes](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/transitwoes.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Tri](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/tri.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Triangle Area](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/triarea.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Trik](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/trik.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Triple Texting](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/tripletexting.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Two-sum](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/twosum.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Ultimate Binary Watch](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/ultimatebinarywatch.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Un-bear-able Zoo](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/zoo.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Unlock Pattern](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/unlockpattern.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [WERTYU](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/wertyu.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [What does the fox say?](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/whatdoesthefoxsay.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Which is Greater?](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/whichisgreater.py) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON) | 
-| [Yin and Yang Stones](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/yinyangstones.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
-| [Zamka](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/zamka.cpp) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B) |
+| [2048](https://open.kattis.com/problems/2048) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/2048.py) |
+| [3D Printed Statues](https://open.kattis.com/problems/3dprinter) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/3dprinter.py) |
+| [99 Problems](https://open.kattis.com/problems/99problems) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/99problems.py) |
+| [Aaah!](https://open.kattis.com/problems/aaah) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/aaah.cpp) |
+| [ABC](https://open.kattis.com/problems/abc) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/abc.py) |
+| [Above Average](https://open.kattis.com/problems/aboveaverage) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/aboveaverage.py) |
+| [ACM Contest Scoring](https://open.kattis.com/problems/acm) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/acm.cpp) |
+| [Add Two Number](https://open.kattis.com/problems/addtwonumbers) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/addtwonumbers.py) |
+| [A Different Problem](https://open.kattis.com/problems/different) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/different.cpp) |
+| [Alphabet Spam](https://open.kattis.com/problems/alphabetSpam) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/alphabetSpam.cpp) |
+| [A New Alphabet](https://open.kattis.com/problems/anewalphabet) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/anewalphabet.cpp) |
+| [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/apaxiaaans.cpp) |
+| [A Real Challenge](https://open.kattis.com/problems/areal) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/areal.cpp) |
+| [Arithmetic Functions](https://open.kattis.com/problems/arithmeticfunctions) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/arithmeticfunctions.cpp) |
+| [Army Strength (Easy)](https://open.kattis.com/problems/armystrengtheasy) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/armystrengtheasy.cpp) |
+| [Arrangement](https://open.kattis.com/problems/upprodun) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/upprodun.py) |
+| [Autori](https://open.kattis.com/problems/autori) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/autori.cpp) |
+| [	Average Character](https://open.kattis.com/problems/averagecharacter) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/averagecharacter.py) |
+| [Avion](https://open.kattis.com/problems/avion) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/avion.py) |
+| [Babelfish](https://open.kattis.com/problems/babelfish) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/babelfish.py) |
+| [Baby Bites](https://open.kattis.com/problems/babybites) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/babybites.py) |
+| [Backspace](https://open.kattis.com/problems/backspace) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/backspace.py) |
+| [	Bacon, Eggs, and Spam](https://open.kattis.com/problems/baconeggsandspam) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/baconeggsandspam.py) |
+| [ Basketball One-on-One](https://open.kattis.com/problems/basketballoneonone) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/basketballoneonone.py) |
+| [Batter Up](https://open.kattis.com/problems/baterrup) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/baterrup.cpp) |
+| [Bela](https://open.kattis.com/problems/bela) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/bela.cpp) |
+| [Betting](https://open.kattis.com/problems/betting) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/betting.py) |
+| [Bijele](https://open.kattis.com/problems/bijele) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/bijele.cpp) |
+| [Birthday Memorization](https://open.kattis.com/problems/fodelsedagsmemorisering) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/fodelsedagsmemorisering.py) |
+| [Black Friday](https://open.kattis.com/problems/blackfriday) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/blackfriday.py) |
+| [Blueberry Waffle](https://open.kattis.com/problems/blueberrywaffle) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/blueberrywaffle.py) |
+| [Boat Parts](https://open.kattis.com/problems/boatparts) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/boatparts.py) |
+| [Booking a Room](https://open.kattis.com/problems/bookingaroom) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/bookingaroom.cpp) |
+| [Building Pyramids](https://open.kattis.com/problems/pyramids) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/pyramids.py) |
+| [	Canadians, eh?](https://open.kattis.com/problems/canadianseh) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/canadianseh.py) |
+| [CD](https://open.kattis.com/problems/cd) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/cd.cpp), [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cd.py) |
+| [Cetiri](https://open.kattis.com/problems/cetiri) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cetiri.py) |
+| [Cetvrta](https://open.kattis.com/problems/cetvrta) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/cetvrta.cpp) |
+| [Chanukah Challenge](https://open.kattis.com/problems/chanukah) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/chanukah.cpp) |
+| [Class Field Trip](https://open.kattis.com/problems/classfieldtrip) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/classfieldtrip.py) |
+| [Code to Save Lives](https://open.kattis.com/problems/codetosavelives) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/codetosavelives.py) |
+| [Coffee Cup Combo](https://open.kattis.com/problems/coffeecupcombo) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/coffeecupcombo.py) |
+| [Cold-puter Science](https://open.kattis.com/problems/cold) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/cold.cpp) |
+| [Compound Words](https://open.kattis.com/problems/compoundwords) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/compoundwords.py) |
+| [Count The Vowels](https://open.kattis.com/problems/countthevowels) | [Go](https://github.com/lisansulistiani/Kattis/blob/main/GO/countthevowels.go) |
+| [Counting Clauses](https://open.kattis.com/problems/countingclauses) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/countingclauses.py) |
+| [Cpr-nummer](https://open.kattis.com/problems/cprnummer) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cprnummer.py) |
+| [Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/conundrum.cpp) |
+| [Cudoviste](https://open.kattis.com/problems/cudoviste) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cudoviste.py) |
+| [Cut in Line](https://open.kattis.com/problems/cutinline) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cutinline.py) |
+| [Cut the Negativity](https://open.kattis.com/problems/cutthenegativity) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cutthenegativity.py) |
+| [Datum](https://open.kattis.com/problems/datum) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/datum.cpp) |
+| [Detailed Differences](https://open.kattis.com/problems/detaileddifferences) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/detaileddifferences.cpp) |
+| [Dice Cup](https://open.kattis.com/problems/dicecup) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/dicecup.cpp) |
+| [Dice Game](https://open.kattis.com/problems/dicegame) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/dicegame.cpp) |
+| [Digit Product](https://open.kattis.com/problems/sifferprodukt) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/sifferprodukt.py) |
+| [Digit Swap](https://open.kattis.com/problems/digitswap) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/digitswap.py) |
+| [Divvying Up](https://open.kattis.com/problems/divvyingup) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/divvyingup.py) |
+| [Double Password](https://open.kattis.com/problems/doublepassword) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/doublepassword.py) |
+| [DRM Messages](https://open.kattis.com/problems/drmmessages) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/drmmessages.cpp) |
+| [	Drunk Vigenère](https://open.kattis.com/problems/drunkvigenere) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/drunkvigenere.py) |
+| [Echo Echo Echo](https://open.kattis.com/problems/echo) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/echo.py) |
+| [Eight Queens](https://open.kattis.com/problems/8queens) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/8queens.cpp) |
+| [Eligibility](https://open.kattis.com/problems/eligibility) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/eligibility.py) |
+| [Electrical Outlets](https://open.kattis.com/problems/electricaloutlets) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/electricaloutlets.cpp) |
+| [Emag Eht Htiw Em Pleh](https://open.kattis.com/problems/empleh) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/empleh.py) |
+| [Encoded Message](https://open.kattis.com/problems/encodedmessage) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/encodedmessage.cpp) |
+| [Erase Securely](https://open.kattis.com/problems/erase) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/erase.py) |
+| [Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/estimatingtheareaofacircle.py) |
+| [Eye of Sauron](https://open.kattis.com/problems/eyeofsauron) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/eyeofsauron.java) |
+| [	Fading Wind](https://open.kattis.com/problems/fadingwind) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/fadingwind.py) |
+| [Faktor](https://open.kattis.com/problems/faktor) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/faktor.cpp) |
+| [Fifty Shades of Pink](https://open.kattis.com/problems/fiftyshades) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/fiftyshades.py) |
+| [Filip](https://open.kattis.com/problems/filip) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/filip.py) |
+| [Final Exam](https://open.kattis.com/problems/finalexam2) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/finalexam2.cpp) |
+| [Finding An A](https://open.kattis.com/problems/findingAnA) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/findingAnA.java) |
+| [FizzBuzz](https://open.kattis.com/problems/FizzBuzz) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/FizzBuzz.cpp) |
+| [Flexible Spaces](https://open.kattis.com/problems/flexible) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/flexible.py) |
+| [Forced Choice](https://open.kattis.com/problems/forcedchoice) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/forcedchoice.py) |
+| [Free Food](https://open.kattis.com/problems/freefood) | [C#](https://github.com/lisansulistiani/Kattis/blob/main/C%23/freefood.cs) |
+| [FYI](https://open.kattis.com/problems/fyi) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/fyi.py) |
+| [GCD](https://open.kattis.com/problems/gcd) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/gcd.py) |
+| [GCVWR](https://open.kattis.com/problems/gcvwr) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/gcvwr.java) |
+| [Grading](https://open.kattis.com/problems/grading) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/grading.cpp) |
+| [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [C](https://github.com/lisansulistiani/Kattis/tree/main/C/grassseed.c) |
+| [Greetings!](https://open.kattis.com/problems/greetings2) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/greetings2.cpp) |
+| [Hailstone Sequences](https://open.kattis.com/problems/hailstone2) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/hailstone2.py) |
+| [Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/hangingout.py) |
+| [Hangman](https://open.kattis.com/problems/hangman) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/hangman.py) |
+| [Harshad Numbers](https://open.kattis.com/problems/harshadnumbers) | [C#](https://github.com/lisansulistiani/Kattis/blob/main/C%23/harshadnumbers.cs) |
+| [Heart Rate](https://open.kattis.com/problems/heartrate) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/heartrate.cpp) |
+| [Heir's Dilemma](https://open.kattis.com/problems/heirsdilemma) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/heirsdilemma.py) |
+| [Hello World!](https://open.kattis.com/problems/helloworld) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/helloworld.cpp), [C](https://github.com/lisansulistiani/Kattis/tree/main/C/helloWorld.c) |
+| [Help a PhD candidate out!](https://open.kattis.com/problems/helpaphd) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/helpaphd.py) |
+| [Help Me With The Game](https://open.kattis.com/problems/helpme) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/helpme.py) |
+| [Herman](https://open.kattis.com/problems/herman) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/herman.cpp) |
+| [Hissing Microphone](https://open.kattis.com/problems/hissing) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/hissing.cpp) |
+| [Homework](https://open.kattis.com/problems/homework) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/homework.java) |
+| [Honour Thy (Apaxian) Parent](https://open.kattis.com/problems/apaxianparent) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/apaxianparent.cpp) |
+| [ICPC Awards](https://open.kattis.com/problems/icpcaward) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/icpcaward.cpp) |
+| [Imperial Measurement](https://open.kattis.com/problems/measurement) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/measurement.cpp) |
+| [IsItHalloween.com](https://open.kattis.com/problems/isithallowen) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/isithallowen.cpp) |
+| [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | [C#](https://github.com/lisansulistiani/Kattis/blob/main/C%23/everywhere.cs) |
+| [Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/jackolanternjuxtaposition.cpp) |
+| [Jabuke](https://open.kattis.com/problems/jabuke) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/jabuke.py) |
+| [Janitor Troubles](https://open.kattis.com/problems/janitortroubles) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/janitortroubles.py) |
+| [Job Expenses](https://open.kattis.com/problems/jobexpenses) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/jobexpenses.cpp) |
+| [Joint Jog Jam](https://open.kattis.com/problems/jointjogjam) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/jointjogjam.py) |
+| [Judging Moose](https://open.kattis.com/problems/judgingamoose) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/judgingamoose.py) |
+| [Jumbled Compass](https://open.kattis.com/problems/compass) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/compass.cpp) |
+| [Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/jumbojavelin.cpp) |
+| [Karte](https://open.kattis.com/problems/karte) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/karte.py) |
+| [Kemija](https://open.kattis.com/problems/kemija08) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/kemija08.py) |
+| [Kleptography](https://open.kattis.com/problems/kleptography) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/kleptography.py) |
+| [Knight Packing](https://open.kattis.com/problems/knightpacking) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/knightpacking.py) |
+| [Knot Knowledge](https://open.kattis.com/problems/knotknowledge) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/knotknowledge.py) |
+| [Kornislav](https://open.kattis.com/problems/kornislav) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/kornislav.cpp) |
+| [Ladder](https://open.kattis.com/problems/ladder) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/ladder.cpp) |
+| [Laptop Sticker](https://open.kattis.com/problems/laptopsticker) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/laptopsticker.cpp) |
+| [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/lastfactorialdigit.cpp) |
+| [Left Beehind](https://open.kattis.com/problems/leftbeehind) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/leftbeehind.cpp) |
+| [License to Launch](https://open.kattis.com/problems/licensetolaunch) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/licensetolaunch.py) |
+| [Line Them Up](https://open.kattis.com/problems/lineup) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/lineup.py) |
+| [Logic Functions](https://open.kattis.com/problems/logicfunctions) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/logicfunctions.cpp) |
+| [Lost Lineup](https://open.kattis.com/problems/lostlineup) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/lostlineup.py) |
+| [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/luhnchecksum.py) |
+| [Magic Trick](https://open.kattis.com/problems/magictrick) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/magictrick.py) |
+| [Math Worksheet](https://open.kattis.com/problems/mathworksheet) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/mathworksheet.py), [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/mathworksheet.cpp) |
+| [Methodic Multiplication](https://open.kattis.com/problems/methodicmultiplication) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/methodicmultiplication.py) |
+| [Metronome](https://open.kattis.com/problems/metronome) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/metronome.cpp) |
+| [Mirror Images](https://open.kattis.com/problems/mirror) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/mirror.cpp) |
+| [Missing Numbers](https://open.kattis.com/problems/missingnumbers) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/missingnumbers.cpp) |
+| [Mixed Fractions](https://open.kattis.com/problems/mixedfractions) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/mixedfractions.cpp) |
+| [Mjehuric](https://open.kattis.com/problems/mjehuric) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/mjehuric.py) |
+| [Moderate Pace](https://open.kattis.com/problems/moderatepace) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/moderatepace.py) |
+| [Modulo](https://open.kattis.com/problems/modulo) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/modulo.cpp) |
+| [Mult!](https://open.kattis.com/problems/mult) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/mult.py) |
+| [Musical Scales](https://open.kattis.com/problems/musicalscales) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/musicalscales.py) |
+| [Nasty Hacks](https://open.kattis.com/problems/nasty) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/nasty.cpp) |
+| [No Duplicates](https://open.kattis.com/problems/nodup) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/nodup.py) |
+| [N-sum](https://open.kattis.com/problems/nsum) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/nsum.py) |
+| [Number Fun](https://open.kattis.com/problems/numberfun) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/numberfun.cpp) |
+| [Odd Echo](https://open.kattis.com/problems/oddecho) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/oddecho.py) |
+| [Oddities](https://open.kattis.com/problems/Oddities) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/Oddities.cpp) |
+| [Odd Man Out](https://open.kattis.com/problems/oddmanout) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/oddmanout.cpp) |
+| [One Chicken Per Person!](https://open.kattis.com/problems/oneChicken) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/oneChicken.cpp) |
+| [Östgötska](https://open.kattis.com/problems/ostgoska) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/ostgoska.py) |
+| [Overdraft](https://open.kattis.com/problems/overdraft) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/overdraft.py) |
+| [Parking](https://open.kattis.com/problems/parking) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/parking.cpp) |
+| [Paul Eigon](https://open.kattis.com/problems/pauleigon) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/pauleigon.py) |
+| [	Pervasive Heart Monitor](https://open.kattis.com/problems/pervasiveheartmonitor) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/pervasiveheartmonitor.py) |
+| [Pet](https://open.kattis.com/problems/pet) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/pet.cpp) |
+| [Phone List](https://open.kattis.com/problems/phonelist) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/phonelist.py) |
+| [Piece of Cake!](https://open.kattis.com/problems/pieceofcake2) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/pieceofcake2.cpp) |
+| [Pizza Crust](https://open.kattis.com/problems/pizzaCrust) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/pizzaCrust.cpp) |
+| [Planina](https://open.kattis.com/problems/planina) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/planina.cpp) |
+| [Pokechat](https://open.kattis.com/problems/pokechat) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/pokechat.py) |
+| [Poker Hand](https://open.kattis.com/problems/pokerhand) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/pokerhand.cpp) |
+| [Popular Vote](https://open.kattis.com/problems/popularVote) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/popularVote.cpp) |
+| [Pot](https://open.kattis.com/problems/pot) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/pot.cpp) |
+| [Preludes](https://open.kattis.com/problems/chopin) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/chopin.cpp) |
+| [Printing Costs](https://open.kattis.com/problems/printingcosts) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/printingcosts.cpp) |
+| [Provinces and Gold](https://open.kattis.com/problems/provincesandgold) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/provincesandgold.cpp) |
+| [	Prsteni](https://open.kattis.com/problems/prsteni) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/prsteni.py) |
+| [Ptice](https://open.kattis.com/problems/ptice) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/ptice.py) |
+| [Quadrant Selection](https://open.kattis.com/problems/quadrant) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/quadrant.cpp) |
+| [Quality-Adjusted Life-Year](https://open.kattis.com/problems/QALY) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/QALY.cpp) |
+| [Quick Brown Fox](https://open.kattis.com/problems/quickbrownfox) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/quickbrownfox.java) |
+| [Quick Estimates](https://open.kattis.com/problems/quickestimates) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/quickestimates.cpp) |
+| [Quite a Problem](https://open.kattis.com/problems/quiteaproblem) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/quiteaproblem.py) |
+| [R2](https://open.kattis.com/problems/R2) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/R2.cpp) |
+| [Railroad](https://open.kattis.com/problems/railroad) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/railroad.cpp) |
+| [Rating Problems](https://open.kattis.com/problems/ratingproblems) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/ratingproblems.py) |
+| [Recount](https://open.kattis.com/problems/recount) | [C#](https://github.com/lisansulistiani/Kattis/blob/main/C%23/recount.cs) |
+| [Rectangle Area](https://open.kattis.com/problems/rectanglearea) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/rectanglearea.py) |
+| [Relocation](https://open.kattis.com/problems/relocation) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/relocation.cpp) |
+| [Reverse](https://open.kattis.com/problems/ofugsnuid) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/ofugsnuid.cpp) |
+| [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/reversebinary.cpp) |
+| [Reverse Rot](https://open.kattis.com/problems/reverseRot) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/reverseRot.cpp) |
+| [Riječi](https://open.kattis.com/problems/rijeci) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/rijeci.cpp) |
+| [Roaming Romans](https://open.kattis.com/problems/romans) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/romans.cpp) |
+| [Run-Length Encoding, Run!](https://open.kattis.com/problems/runlengthencodingrun) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/runlengthencodingrun.cpp) |
+| [Saving Daylight](https://open.kattis.com/problems/savingdaylight) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/savingdaylight.cpp) |
+| [Saving For Retirement](https://open.kattis.com/problems/savingforretirement) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/savingforretirement.cpp) |
+| [Secret Message](https://open.kattis.com/problems/secretmessage) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/secretmessage.cpp) |
+| [Sequre Doors](https://open.kattis.com/problems/sequredoors) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/sequredoors.py) |
+| [Server](https://open.kattis.com/problems/server) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/server.cpp) |
+| [Seven Wonders](https://open.kattis.com/problems/SevenWonder) | [Java](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/SevenWonder.java) |
+| [Shattered Cake](https://open.kattis.com/problems/shatteredCake) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/shatteredCake.py) |
+| [Shopping List (Easy)](https://open.kattis.com/problems/shoppinglisteasy) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/shoppinglisteasy.py) |
+| [Sibice](https://open.kattis.com/problems/sibice) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/sibice.cpp) |
+| [Simon Says](https://open.kattis.com/problems/simon) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/simon.cpp) |
+| [Simon Says](https://open.kattis.com/problems/simonsays) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/simonsays.cpp) |
+| [Simple Addition](https://open.kattis.com/problems/simpleaddition) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/simpleaddition.py) |
+| [Simple Arithmetic](https://open.kattis.com/problems/simplearithmetic) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/simplearithmetic.py) |
+| [Skener](https://open.kattis.com/problems/skener) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/skener.cpp) |
+| [Skocimis](https://open.kattis.com/problems/skocimis) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/skocimis.cpp) |
+| [Skru op!](https://open.kattis.com/problems/skruop) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/skruop.py) |
+| [SMIL](https://open.kattis.com/problems/smil) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/smil.py) |
+| [Soda Slurper](https://open.kattis.com/problems/sodasurpler) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/sodasurpler.cpp) |
+| [Solving for Carrots](https://open.kattis.com/problems/carrots) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/carrots.cpp) |
+| [Sort of Sorting](https://open.kattis.com/problems/sortofsorting) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/sortofsorting.py) |
+| [Sort Two Numbers](https://open.kattis.com/problems/sorttwonumbers) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/sorttwonumbers.py) |
+| [Soylent](https://open.kattis.com/problems/soylent) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/soylent.cpp) |
+| [Spavanac](https://open.kattis.com/problems/Spavanac) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/Spavanac.cpp) |
+| [Speeding](https://open.kattis.com/problems/speeding) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/speeding.cpp) |
+| [Speed Limit](https://open.kattis.com/problems/speedLimit) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/speedLimit.cpp) |
+| [Square Peg](https://open.kattis.com/problems/squarepeg) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/squarepeg.py) |
+| [Stacking Cups](https://open.kattis.com/problems/cups) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cups.py) |
+| [Stand on Zanzibar](https://open.kattis.com/problems/StandOnZanzibar) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/StandOnZanzibar.cpp) |
+| [Statistics](https://open.kattis.com/problems/statistics) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/statistics.cpp) |
+| [Stopwatch](https://open.kattis.com/problems/stopwatch) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/stopwatch.cpp) |
+| [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/timeloop.cpp) |
+| [Sum Kind of Problem](https://open.kattis.com/problems/sumkindproblem) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/sumkindproblem.cpp) |
+| [Sum Squared Digits Function](https://open.kattis.com/problems/sumsquaredigit) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/sumsquaredigit.cpp) |
+| [Symmetric Order](https://open.kattis.com/problems/SymmetricOrder) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/SymmetricOrder.cpp) |
+| [Synchronizing Lists](https://open.kattis.com/problems/synchronizinglists) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/synchronizinglists.py) |
+| [T9 Spelling](https://open.kattis.com/problems/t9spelling) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/t9spelling.py) |
+| [Tai's formula](https://open.kattis.com/problems/taisformula) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/taisformula.cpp) |
+| [Take Two Stones](https://open.kattis.com/problems/twostones) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/twostones.cpp) |
+| [Tarifa](https://open.kattis.com/problems/tarifa) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/tarifa.cpp) |
+| [Tastelogger](https://open.kattis.com/problems/keylogger) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/keylogger.py) |
+| [Teque](https://open.kattis.com/problems/teque) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/teque.py) |
+| [Tetration](https://open.kattis.com/problems/tetration) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/tetration.py) |
+| [The Amazing Human Cannonball](https://open.kattis.com/problems/humancanonball2) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/humancanonball2.cpp) |
+| [The Easiest Problem Is This One](https://open.kattis.com/problems/easiest) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/easiest.cpp) |
+| [The Key to Cryptography](https://open.kattis.com/problems/keytocrypto) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/keytocrypto.cpp) |
+| [The Last Problem](https://open.kattis.com/problems/thelastproblem) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/thelastproblem.py) |
+| [The Owl and the Fox](https://open.kattis.com/problems/owlandfox) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/owlandfox.cpp) |
+| [This Ain't Your Grandpa's Checkerboard](https://open.kattis.com/problems/thisaintyourgrandpascheckerboard) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/thisaintyourgrandpascheckerboard.py) |
+| [Tower Construction](https://open.kattis.com/problems/tornbygge) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/tornbygge.py) |
+| [Transit Woes](https://open.kattis.com/problems/transitwoes) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/transitwoes.cpp) |
+| [Tri](https://open.kattis.com/problems/tri) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/tri.cpp) |
+| [Triangle Area](https://open.kattis.com/problems/triarea) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/triarea.cpp) |
+| [Trik](https://open.kattis.com/problems/trik) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/trik.cpp) |
+| [Triple Texting](https://open.kattis.com/problems/tripletexting) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/tripletexting.py) |
+| [Two-sum](https://open.kattis.com/problems/twosum) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/twosum.cpp) |
+| [Ultimate Binary Watch](https://open.kattis.com/problems/ultimatebinarywatch) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/ultimatebinarywatch.py) |
+| [Un-bear-able Zoo](https://open.kattis.com/problems/zoo) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/zoo.py) |
+| [Unlock Pattern](https://open.kattis.com/problems/unlockpattern) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/unlockpattern.py) |
+| [WERTYU](https://open.kattis.com/problems/wertyu) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/wertyu.cpp) |
+| [What does the fox say?](https://open.kattis.com/problems/whatdoesthefoxsay) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/whatdoesthefoxsay.py) |
+| [Which is Greater?](https://open.kattis.com/problems/whichisgreater) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/whichisgreater.py) |
+| [Yin and Yang Stones](https://open.kattis.com/problems/yinyangstones) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/yinyangstones.cpp) |
+| [Zamka](https://open.kattis.com/problems/zamka) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/zamka.cpp) |
 
 
 
