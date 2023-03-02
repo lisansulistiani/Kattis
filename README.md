@@ -11,7 +11,7 @@
 | [ACM Contest Scoring](https://open.kattis.com/problems/acm) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/acm.cpp) |
 | [Add Two Number](https://open.kattis.com/problems/addtwonumbers) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/addtwonumbers.py) |
 | [A Different Problem](https://open.kattis.com/problems/different) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/different.cpp) |
-| [Alphabet Spam](https://open.kattis.com/problems/alphabetSpam) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/alphabetSpam.cpp) |
+| [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/alphabetSpam.cpp) |
 | [A New Alphabet](https://open.kattis.com/problems/anewalphabet) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/anewalphabet.cpp) |
 | [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/apaxiaaans.cpp) |
 | [A Real Challenge](https://open.kattis.com/problems/areal) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/areal.cpp) |
@@ -26,7 +26,7 @@
 | [Backspace](https://open.kattis.com/problems/backspace) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/backspace.py) |
 | [	Bacon, Eggs, and Spam](https://open.kattis.com/problems/baconeggsandspam) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/baconeggsandspam.py) |
 | [ Basketball One-on-One](https://open.kattis.com/problems/basketballoneonone) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/basketballoneonone.py) |
-| [Batter Up](https://open.kattis.com/problems/baterrup) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/baterrup.cpp) |
+| [Batter Up](https://open.kattis.com/problems/batterup) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/baterrup.cpp) |
 | [Bela](https://open.kattis.com/problems/bela) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/bela.cpp) |
 | [Betting](https://open.kattis.com/problems/betting) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/betting.py) |
 | [Bijele](https://open.kattis.com/problems/bijele) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/bijele.cpp) |
