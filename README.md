@@ -2,7 +2,7 @@
 ## Problems
 | Problem | Languages |
 | - | - |
-| [2048](https://open.kattis.com/problems/2048){:target="_blank"} | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/2048.py) |
+| [2048](https://open.kattis.com/problems/2048) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/2048.py) |
 | [3D Printed Statues](https://open.kattis.com/problems/3dprinter) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/3dprinter.py) |
 | [99 Problems](https://open.kattis.com/problems/99problems) | [Python 3](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/99problems.py) |
 | [Aaah!](https://open.kattis.com/problems/aaah) | [C++](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/aaah.cpp) |
