@@ -48,7 +48,7 @@
 | [Booking a Room](https://open.kattis.com/problems/bookingaroom) | [bookingaroom](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/bookingaroom.cpp) |
 | [Building Pyramids](https://open.kattis.com/problems/pyramids) | [pyramids](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/pyramids.py) |
 | [Canadians, eh?](https://open.kattis.com/problems/canadianseh) | [canadianseh](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/canadianseh.py) |
-| [CD](https://open.kattis.com/problems/cd) | [cd](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/cd.cpp,[cd](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cd.py) |
+| [CD](https://open.kattis.com/problems/cd) | [cd_cpp](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/cd.cpp), [cd_python](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cd.py) |
 | [Cetiri](https://open.kattis.com/problems/cetiri) | [cetiri](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cetiri.py) |
 | [Cetvrta](https://open.kattis.com/problems/cetvrta) | [cetvrta](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/cetvrta.cpp) |
 | [Chanukah Challenge](https://open.kattis.com/problems/chanukah) | [chanukah](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/chanukah.cpp) |
@@ -112,7 +112,7 @@
 | [Harshad Numbers](https://open.kattis.com/problems/harshadnumbers) | [harshadnumbers](https://github.com/lisansulistiani/Kattis/blob/main/C%23/harshadnumbers.cs) |
 | [Heart Rate](https://open.kattis.com/problems/heartrate) | [heartrate](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/heartrate.cpp) |
 | [Heir's Dilemma](https://open.kattis.com/problems/heirsdilemma) | [heirsdilemma](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/heirsdilemma.py) |
-| [Hello World!](https://open.kattis.com/problems/hello) | [hello](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/helloworld.cpp,[hello](https://github.com/lisansulistiani/Kattis/tree/main/C/helloWorld.c) |
+| [Hello World!](https://open.kattis.com/problems/hello) | [hello_cpp](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/helloworld.cpp), [hello_c](https://github.com/lisansulistiani/Kattis/tree/main/C/helloWorld.c) |
 | [Help a PhD candidate out!](https://open.kattis.com/problems/helpaphd) | [helpaphd](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/helpaphd.py) |
 | [Help Me With The Game](https://open.kattis.com/problems/helpme) | [helpme](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/helpme.py) |
 | [Herman](https://open.kattis.com/problems/herman) | [herman](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/herman.cpp) |
@@ -158,7 +158,7 @@
 | [Lubbi Lærir](https://open.kattis.com/problems/lubbilaerir) | [lubbilaerir](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/lubbilaerir.py) |
 | [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum) | [luhnchecksum](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/luhnchecksum.py) |
 | [Magic Trick](https://open.kattis.com/problems/magictrick) | [magictrick](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/magictrick.py) |
-| [Math Worksheet](https://open.kattis.com/problems/mathworksheet) | [mathworksheet](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/mathworksheet.py,[mathworksheet](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/mathworksheet.cpp) |
+| [Math Worksheet](https://open.kattis.com/problems/mathworksheet) | [mathworksheet_python](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/mathworksheet.py), [mathworksheet_cpp](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/mathworksheet.cpp) |
 | [Methodic Multiplication](https://open.kattis.com/problems/methodicmultiplication) | [methodicmultiplication](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/methodicmultiplication.py) |
 | [Metronome](https://open.kattis.com/problems/metronome) | [metronome](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/metronome.cpp) |
 | [Millifærsla](https://open.kattis.com/problems/millifaersla) | [millifaersla](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/millifaersla.py) |
