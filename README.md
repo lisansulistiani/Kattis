@@ -1,6 +1,6 @@
 # Kattis - Solution
 ## Problems
-| Problem | Languages |
+| Problem | Code |
 | - | - |
 | [2048](https://open.kattis.com/problems/2048) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/2048.py |
 | [3D Printed Statues](https://open.kattis.com/problems/3dprinter) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/3dprinter.py |
