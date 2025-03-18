@@ -13,10 +13,12 @@
 | [Adding Trouble](https://open.kattis.com/problems/addingtrouble) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/addingtrouble.py |
 | [A Different Problem](https://open.kattis.com/problems/different) | https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/different.cpp |
 | [Á leið í bíó](https://open.kattis.com/problems/aleidibio) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/aleidibio.py |
+| [Aldur](https://open.kattis.com/problems/aldur) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/aldur.py |
 | [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/alphabetSpam.cpp |
 | [Amerískur vinnustaður](https://open.kattis.com/problems/ameriskur) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/ameriskur.py |
 | [A New Alphabet](https://open.kattis.com/problems/anewalphabet) | https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/anewalphabet.cpp |
 | [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans) | https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/apaxiaaans.cpp |
+| [A Shortcut to What?](https://open.kattis.com/problems/asciikassi) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/asciikassi.py |
 | [ASCII kassi](https://open.kattis.com/problems/asciikassi) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/asciikassi.py |
 | [A Real Challenge](https://open.kattis.com/problems/areal) | https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/areal.cpp |
 | [Arithmetic Functions](https://open.kattis.com/problems/arithmeticfunctions) | https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/arithmeticfunctions.cpp |
@@ -34,6 +36,7 @@
 | [Batter Up](https://open.kattis.com/problems/batterup) | https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/baterrup.cpp |
 | [Bela](https://open.kattis.com/problems/bela) | https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/bela.cpp |
 | [BergMál](https://open.kattis.com/problems/bergmal) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/bergmal.py |
+| [Besta gjöfin](https://open.kattis.com/problems/bestagjofin) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/bestagjofin.py |
 | [Betting](https://open.kattis.com/problems/betting) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/betting.py |
 | [Bijele](https://open.kattis.com/problems/bijele) | https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/bijele.cpp |
 | [Birthday Memorization](https://open.kattis.com/problems/fodelsedagsmemorisering) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/fodelsedagsmemorisering.py |
@@ -61,8 +64,11 @@
 | [Cudoviste](https://open.kattis.com/problems/cudoviste) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cudoviste.py |
 | [Cut in Line](https://open.kattis.com/problems/cutinline) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cutinline.py |
 | [Cut the Negativity](https://open.kattis.com/problems/cutthenegativity) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cutthenegativity.py |
+| [Dagatal](https://open.kattis.com/problems/dagatal) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/dagatal.py |
 | [Datum](https://open.kattis.com/problems/datum) | https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/datum.cpp |
+| [Decimal deletion](https://open.kattis.com/problems/decimaldeletion) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/decimaldeletion.py |
 | [Detailed Differences](https://open.kattis.com/problems/detaileddifferences) | https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/detaileddifferences.cpp |
+| [D Fyrir Dreki](https://open.kattis.com/problems/dfyrirdreki) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/dfyrirdreki.py |
 | [Dice Cup](https://open.kattis.com/problems/dicecup) | https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/dicecup.cpp |
 | [Dice Game](https://open.kattis.com/problems/dicegame) | https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/dicegame.cpp |
 | [Digit Product](https://open.kattis.com/problems/sifferprodukt) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/sifferprodukt.py |
@@ -110,7 +116,8 @@
 | [Help a PhD candidate out!](https://open.kattis.com/problems/helpaphd) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/helpaphd.py |
 | [Help Me With The Game](https://open.kattis.com/problems/helpme) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/helpme.py |
 | [Herman](https://open.kattis.com/problems/herman) | https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/herman.cpp |
-| [Hipp Hipp Húrra] (https://open.kattis.com/problems/hipphipphurra) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/hipphipphurra.py |
+| [Heysáta](https://open.kattis.com/problems/heysata) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/heysata.py |
+| [Hipp Hipp Húrra](https://open.kattis.com/problems/hipphipphurra) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/hipphipphurra.py |
 | [Hipp Hipp](https://open.kattis.com/problems/hipphipp) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/hipphipp.py |
 | [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/hissing.cpp |
 | [Homework](https://open.kattis.com/problems/homework) | https://github.com/lisansulistiani/Kattis/blob/main/JAVA/homework.java |
@@ -120,6 +127,7 @@
 | [Imperial Measurement](https://open.kattis.com/problems/measurement) | https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/measurement.cpp |
 | [International Dates](https://open.kattis.com/problems/internationaldates) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/internationaldates.py |
 | [IsItHalloween.com](https://open.kattis.com/problems/isithalloween) | https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/isithalloween.cpp |
+| [Is Y a Vowel?](https://open.kattis.com/problems/isyavowel) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/isyavowel.py |
 | [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | https://github.com/lisansulistiani/Kattis/blob/main/C%23/everywhere.cs |
 | [Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) | https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/jackolanternjuxtaposition.cpp |
 | [Jabuke](https://open.kattis.com/problems/jabuke) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/jabuke.py |
@@ -131,6 +139,7 @@
 | [Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin) | https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/jumbojavelin.cpp |
 | [Karte](https://open.kattis.com/problems/karte) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/karte.py |
 | [Kemija](https://open.kattis.com/problems/kemija08) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/kemija08.py |
+| [Kiki Boba](https://open.kattis.com/problems/kikiboba) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/kikiboba.py |
 | [Kleptography](https://open.kattis.com/problems/kleptography) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/kleptography.py |
 | [Knight Packing](https://open.kattis.com/problems/knightpacking) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/knightpacking.py |
 | [Knot Knowledge](https://open.kattis.com/problems/knotknowledge) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/knotknowledge.py |
@@ -245,6 +254,8 @@
 | [Sum Squared Digits Function](https://open.kattis.com/problems/sumsquareddigits) | https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/sumsquaredigit.cpp |
 | [Symmetric Order](https://open.kattis.com/problems/symmetricorder) | https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/symmetricorder.cpp |
 | [Synchronizing Lists](https://open.kattis.com/problems/synchronizinglists) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/synchronizinglists.py |
+| [Takkar](https://open.kattis.com/problems/takkar) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/takkar.py |
+| [Telja](https://open.kattis.com/problems/telja) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/telja.py |
 | [Tölvunarfræðingar telja](https://open.kattis.com/problems/tolvunarfraedingartelja) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/tolvunarfraedingartelja.py |
 | [T9 Spelling](https://open.kattis.com/problems/t9spelling) | https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/t9spelling.py |
 | [Tai's formula](https://open.kattis.com/problems/taisformula) | https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/taisformula.cpp |
