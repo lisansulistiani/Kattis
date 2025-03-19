@@ -242,6 +242,7 @@
 | [Spavanac](https://open.kattis.com/problems/spavanac) | [spavanac](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/Spavanac.cpp) |
 | [Speeding](https://open.kattis.com/problems/speeding) | [speeding](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/speeding.cpp) |
 | [Speed Limit](https://open.kattis.com/problems/speedlimit) | [speedlimit](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/speedLimit.cpp) |
+| [Spritt](https://open.kattis.com/problems/spritt) | [spritt](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/spritt.py) |
 | [Square Peg](https://open.kattis.com/problems/squarepeg) | [squarepeg](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/squarepeg.py) |
 | [Stacking Cups](https://open.kattis.com/problems/cups) | [cups](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cups.py) |
 | [Stand on Zanzibar](https://open.kattis.com/problems/zanzibar) | [zanzibar](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/zanzibar.cpp) |
@@ -284,6 +285,7 @@
 | [Un-bear-able Zoo](https://open.kattis.com/problems/zoo) | [zoo](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/zoo.py) |
 | [Undead or Alive](https://open.kattis.com/problems/undeadoralive) | [undeadoralive](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/undeadoralive.py) |
 | [Unlock Pattern](https://open.kattis.com/problems/unlockpattern) | [unlockpattern](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/unlockpattern.py) |
+| [Veður - Lokaðar heiðar](https://open.kattis.com/problems/vedurheidar) | [vedurheidar](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/vedurheidar.py) |
 | [Velkomin!](https://open.kattis.com/problems/velkomin) | [velkomin](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/velkomin.py) |
 | [Viðsnúningur](https://open.kattis.com/problems/vidsnuningur) | [vidsnuningur](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/vidsnuningur.py) |
 | [WERTYU](https://open.kattis.com/problems/wertyu) | [wertyu](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/wertyu.cpp) |
