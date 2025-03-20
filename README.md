@@ -139,6 +139,7 @@
 | [Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin) | [jumbojavelin](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/jumbojavelin.cpp) |
 | [Karte](https://open.kattis.com/problems/karte) | [karte](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/karte.py) |
 | [Kemija](https://open.kattis.com/problems/kemija08) | [kemija08](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/kemija08.py) |
+| [Keys, Phone, Wallet](https://open.kattis.com/problems/keysphonewallet) | [keysphonewallet](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/keysphonewallet.py) |
 | [Kiki Boba](https://open.kattis.com/problems/kikiboba) | [kikiboba](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/kikiboba.py) |
 | [Kleptography](https://open.kattis.com/problems/kleptography) | [kleptography](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/kleptography.py) |
 | [Knight Packing](https://open.kattis.com/problems/knightpacking) | [knightpacking](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/knightpacking.py) |
@@ -196,6 +197,7 @@
 | [Pot](https://open.kattis.com/problems/pot) | [pot](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/pot.cpp) |
 | [Preludes](https://open.kattis.com/problems/chopin) | [chopin](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/chopin.cpp) |
 | [Printing Costs](https://open.kattis.com/problems/printingcosts) | [printingcosts](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/printingcosts.cpp) |
+| [Programmeringsolympiaden's Budget](https://open.kattis.com/problems/pobudget) | [pobudget](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/pobudget.py) |
 | [Provinces and Gold](https://open.kattis.com/problems/provincesandgold) | [provincesandgold](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/provincesandgold.cpp) |
 | [Prsteni](https://open.kattis.com/problems/prsteni) | [prsteni](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/prsteni.py) |
 | [Ptice](https://open.kattis.com/problems/ptice) | [ptice](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/ptice.py) |
@@ -223,6 +225,7 @@
 | [Secure Doors](https://open.kattis.com/problems/securedoors) | [securedoors](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/securedoors.py) |
 | [Server](https://open.kattis.com/problems/server) | [server](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/server.cpp) |
 | [Seven Wonders](https://open.kattis.com/problems/sevenwonders) | [sevenwonders](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/SevenWonder.java) |
+| [Shandy](https://open.kattis.com/problems/shandy) | [shandy](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/shandy.py) |
 | [Shattered Cake](https://open.kattis.com/problems/shatteredcake) | [shatteredcake](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/shatteredCake.py) |
 | [Shopping List (Easy)](https://open.kattis.com/problems/shoppinglisteasy) | [shoppinglisteasy](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/shoppinglisteasy.py) |
 | [Sibice](https://open.kattis.com/problems/sibice) | [sibice](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/sibice.cpp) |
@@ -230,6 +233,7 @@
 | [Simon Says](https://open.kattis.com/problems/simonsays) | [simonsays](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/simonsays.cpp) |
 | [Simple Addition](https://open.kattis.com/problems/simpleaddition) | [simpleaddition](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/simpleaddition.py) |
 | [Simple Arithmetic](https://open.kattis.com/problems/simplearithmetic) | [simplearithmetic](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/simplearithmetic.py) |
+| [Skák](https://open.kattis.com/problems/skak) | [skak](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/skak.py) |
 | [Skener](https://open.kattis.com/problems/skener) | [skener](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/skener.cpp) |
 | [Skocimis](https://open.kattis.com/problems/skocimis) | [skocimis](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/skocimis.cpp) |
 | [Skru op!](https://open.kattis.com/problems/skruop) | [skruop](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/skruop.py) |
