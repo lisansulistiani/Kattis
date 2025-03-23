@@ -1,0 +1,6 @@
+c = int(input())
+print("{0:2s}{1}".format(' ', 'H '*c))
+print("{0:2s}{1}".format(' ', '| '*c))
+print("{0}{1}{2}".format('H-', 'C-'*c,'OH'))
+print("{0:2s}{1}".format(' ', '| '*c)) 
+print("{0:2s}{1}".format(' ', 'H '*c)) 

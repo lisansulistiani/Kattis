@@ -1,0 +1,5 @@
+N = int(input())
+print(f'{45*N} ml gin')
+print(f'{30*N} ml fresh lemon juice')
+print(f'{10*N} ml simple syrup')
+print(f'{N} {"slices" if N>1 else "slice"} of lemon')
