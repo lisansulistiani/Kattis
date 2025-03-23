@@ -266,6 +266,7 @@
 | [Solving for Carrots](https://open.kattis.com/problems/carrots) | [carrots](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/carrots.cpp) |
 | [Sort of Sorting](https://open.kattis.com/problems/sortofsorting) | [sortofsorting](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/sortofsorting.py) |
 | [Sort Two Numbers](https://open.kattis.com/problems/sorttwonumbers) | [sorttwonumbers](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/sorttwonumbers.py) |
+| [Sóttkví](https://open.kattis.com/problems/sottkvi) | [sottkvi](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/sottkvi.py) |
 | [Soylent](https://open.kattis.com/problems/soylent) | [soylent](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/soylent.cpp) |
 | [Spavanac](https://open.kattis.com/problems/spavanac) | [spavanac](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/Spavanac.cpp) |
 | [Speeding](https://open.kattis.com/problems/speeding) | [speeding](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/speeding.cpp) |
