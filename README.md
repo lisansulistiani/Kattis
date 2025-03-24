@@ -53,6 +53,7 @@
 | [Building Pyramids](https://open.kattis.com/problems/pyramids) | [pyramids](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/pyramids.py) |
 | [Canadians, eh?](https://open.kattis.com/problems/canadianseh) | [canadianseh](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/canadianseh.py) |
 | [Call for Problems](https://open.kattis.com/problems/callforproblems) | [callforproblems](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/callforproblems.py) |
+| [Candy Store](https://open.kattis.com/problems/candystore) | [candystore](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/candystore.py) |
 | [CD](https://open.kattis.com/problems/cd) | [cd_cpp](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/cd.cpp), [cd_python](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cd.py) |
 | [Cetiri](https://open.kattis.com/problems/cetiri) | [cetiri](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cetiri.py) |
 | [Cetvrta](https://open.kattis.com/problems/cetvrta) | [cetvrta](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/cetvrta.cpp) |
@@ -62,6 +63,7 @@
 | [Code to Save Lives](https://open.kattis.com/problems/codetosavelives) | [codetosavelives](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/codetosavelives.py) |
 | [Coffee Cup Combo](https://open.kattis.com/problems/coffeecupcombo) | [coffeecupcombo](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/coffeecupcombo.py) |
 | [Cold-puter Science](https://open.kattis.com/problems/cold) | [cold](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/cold.cpp) |
+| [Composed Rhythms](https://open.kattis.com/problems/composedrhythms) | [composedrhythms](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/composedrhythms.py) |
 | [Compound Words](https://open.kattis.com/problems/compoundwords) | [compoundwords](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/compoundwords.py) |
 | [Conformity](https://open.kattis.com/problems/conformity) | [conformity](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/conformity.py) |
 | [Cosmic Path Optimization](https://open.kattis.com/problems/cosmicpathoptimization) | [cosmicpathoptimization](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cosmicpathoptimization.py) |
@@ -74,6 +76,7 @@
 | [Cut the Negativity](https://open.kattis.com/problems/cutthenegativity) | [cutthenegativity](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cutthenegativity.py) |
 | [Dagatal](https://open.kattis.com/problems/dagatal) | [dagatal](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/dagatal.py) |
 | [Datum](https://open.kattis.com/problems/datum) | [datum](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/datum.cpp) |
+| [Death Knight Hero](https://open.kattis.com/problems/deathknight) | [deathknight](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/deathknight.py) |
 | [Decimal deletion](https://open.kattis.com/problems/decimaldeletion) | [decimaldeletion](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/decimaldeletion.py) |
 | [Detailed Differences](https://open.kattis.com/problems/detaileddifferences) | [detaileddifferences](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/detaileddifferences.cpp) |
 | [D Fyrir Dreki](https://open.kattis.com/problems/dfyrirdreki) | [dfyrirdreki](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/dfyrirdreki.py) |
@@ -204,6 +207,7 @@
 | [Odd Echo](https://open.kattis.com/problems/oddecho) | [oddecho](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/oddecho.py) |
 | [Oddities](https://open.kattis.com/problems/oddities) | [oddities](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/Oddities.cpp) |
 | [Odd Man Out](https://open.kattis.com/problems/oddmanout) | [oddmanout](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/oddmanout.cpp) |
+| [Oooh I See](https://open.kattis.com/problems/ooohisee) | [ooohisee](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/ooohisee.py) |
 | [Oktalni](https://open.kattis.com/problems/oktalni) | [oktalni](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/oktalni.py) |
 | [One Chicken Per Person!](https://open.kattis.com/problems/onechicken) | [onechicken](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/oneChicken.cpp) |
 | [Östgötska](https://open.kattis.com/problems/ostgotska) | [ostgotska](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/ostgoska.py) |
@@ -302,13 +306,15 @@
 | [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2) | [humancannonball2](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/humancanonball2.cpp) |
 | [The Easiest Problem Is This One](https://open.kattis.com/problems/easiest) | [easiest](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/easiest.cpp) |
 | [The Key to Cryptography](https://open.kattis.com/problems/keytocrypto) | [keytocrypto](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/keytocrypto.cpp) |
-| [The Last Problem](https://open.kattis.com/problems/thelastproblem) | [thelastproblem](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/thelastproblem.py) |
+| [The Last Problem](https://open.kattis.com/problems/thendaysofchristmas) | [thendaysofchristmas](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/thendaysofchristmas.py) |
+| [The N Days of Christmas](https://open.kattis.com/problems/thelastproblem) | [thelastproblem](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/thelastproblem.py) |
 | [The Owl and the Fox](https://open.kattis.com/problems/owlandfox) | [owlandfox](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/owlandfox.cpp) |
 | [The Triangle Factory](https://open.kattis.com/problems/triangelfabriken) | [triangelfabriken](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/triangelfabriken.py) |
 | [This Ain't Your Grandpa's Checkerboard](https://open.kattis.com/problems/thisaintyourgrandpascheckerboard) | [thisaintyourgrandpascheckerboard](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/thisaintyourgrandpascheckerboard.py) |
 | [Til hamingju](https://open.kattis.com/problems/tilhamingju) | [tilhamingju](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/tilhamingju.py) |
 | [Tower Construction](https://open.kattis.com/problems/tornbygge) | [tornbygge](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/tornbygge.py) |
 | [Transit Woes](https://open.kattis.com/problems/transitwoes) | [transitwoes](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/transitwoes.cpp) |
+| [Translation](https://open.kattis.com/problems/translation) | [translation](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/translation.py) |
 | [Tri](https://open.kattis.com/problems/tri) | [tri](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/tri.cpp) |
 | [Triangle Area](https://open.kattis.com/problems/triarea) | [triarea](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/triarea.cpp) |
 | [Trik](https://open.kattis.com/problems/trik) | [trik](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/trik.cpp) |
