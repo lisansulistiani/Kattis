@@ -94,6 +94,7 @@
 | [Electrical Outlets](https://open.kattis.com/problems/electricaloutlets) | [electricaloutlets](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/electricaloutlets.cpp) |
 | [Emag Eht Htiw Em Pleh](https://open.kattis.com/problems/empleh) | [empleh](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/empleh.py) |
 | [Encoded Message](https://open.kattis.com/problems/encodedmessage) | [encodedmessage](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/encodedmessage.cpp) |
+| [Equal Shots](https://open.kattis.com/problems/equalshots) | [equalshots](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/equalshots.py) |
 | [Erase Securely](https://open.kattis.com/problems/erase) | [erase](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/erase.py) |
 | [Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle) | [estimatingtheareaofacircle](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/estimatingtheareaofacircle.py) |
 | [Ethanol](https://open.kattis.com/problems/ethanol) | [ethanol](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/ethanol.py) |
@@ -165,6 +166,7 @@
 | [Kornislav](https://open.kattis.com/problems/kornislav) | [kornislav](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/kornislav.cpp) |
 | [Kveðja](https://open.kattis.com/problems/kvedja) | [kvedja](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/kvedja.py) |
 | [Ladder](https://open.kattis.com/problems/ladder) | [ladder](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/ladder.cpp) |
+| [Lægð yfir landinu](https://open.kattis.com/problems/laegdyfirlandinu) | [laegdyfirlandinu](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/laegdyfirlandinu.py) |
 | [Laptop Sticker](https://open.kattis.com/problems/laptopsticker) | [laptopsticker](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/laptopsticker.cpp) |
 | [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit) | [lastfactorialdigit](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/lastfactorialdigit.cpp) |
 | [Left Beehind](https://open.kattis.com/problems/leftbeehind) | [leftbeehind](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/leftbeehind.cpp) |
@@ -194,6 +196,7 @@
 | [Monopoly](https://open.kattis.com/problems/monopol) | [monopol](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/monopol.py) |
 | [Mult!](https://open.kattis.com/problems/mult) | [mult](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/mult.py) |
 | [Musical Scales](https://open.kattis.com/problems/musicalscales) | [musicalscales](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/musicalscales.py) |
+| [Mylla](https://open.kattis.com/problems/mylla2) | [mylla2](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/mylla2.py) |
 | [Nasty Hacks](https://open.kattis.com/problems/nastyhacks) | [nastyhacks](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/nasty.cpp) |
 | [No Duplicates](https://open.kattis.com/problems/nodup) | [nodup](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/nodup.py) |
 | [N-sum](https://open.kattis.com/problems/nsum) | [nsum](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/nsum.py) |
@@ -301,6 +304,7 @@
 | [The Key to Cryptography](https://open.kattis.com/problems/keytocrypto) | [keytocrypto](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/keytocrypto.cpp) |
 | [The Last Problem](https://open.kattis.com/problems/thelastproblem) | [thelastproblem](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/thelastproblem.py) |
 | [The Owl and the Fox](https://open.kattis.com/problems/owlandfox) | [owlandfox](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/owlandfox.cpp) |
+| [The Triangle Factory](https://open.kattis.com/problems/triangelfabriken) | [triangelfabriken](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/triangelfabriken.py) |
 | [This Ain't Your Grandpa's Checkerboard](https://open.kattis.com/problems/thisaintyourgrandpascheckerboard) | [thisaintyourgrandpascheckerboard](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/thisaintyourgrandpascheckerboard.py) |
 | [Til hamingju](https://open.kattis.com/problems/tilhamingju) | [tilhamingju](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/tilhamingju.py) |
 | [Tower Construction](https://open.kattis.com/problems/tornbygge) | [tornbygge](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/tornbygge.py) |
