@@ -20,6 +20,7 @@
 | [Amerískur vinnustaður](https://open.kattis.com/problems/ameriskur) | [ameriskur](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/ameriskur.py) |
 | [A New Alphabet](https://open.kattis.com/problems/anewalphabet) | [anewalphabet](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/anewalphabet.cpp) |
 | [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans) | [apaxiaaans](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/apaxiaaans.cpp) |
+| [A Second Opinion](https://open.kattis.com/problems/secondopinion) | [secondopinion](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/secondopinion.py) |
 | [A Shortcut to What?](https://open.kattis.com/problems/asciikassi) | [asciikassi](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/asciikassi.py) |
 | [ASCII kassi](https://open.kattis.com/problems/asciikassi) | [asciikassi](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/asciikassi.py) |
 | [A Real Challenge](https://open.kattis.com/problems/areal) | [areal](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/areal.cpp) |
@@ -144,6 +145,7 @@
 | [Homework](https://open.kattis.com/problems/homework) | [homework](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/homework.java) |
 | [Honour Thy (Apaxian) Parent](https://open.kattis.com/problems/apaxianparent) | [apaxianparent](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/apaxianparent.cpp) |
 | [Hraðgreining](https://open.kattis.com/problems/hradgreining) | [hradgreining](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/hradgreining.py) |
+| [Hvert Skal Mæta?](https://open.kattis.com/problems/hvertskalmaeta) | [hvertskalmaeta](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/hvertskalmaeta.py) |
 | [ICPC Awards](https://open.kattis.com/problems/icpcawards) | [icpcawards](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/icpcaward.cpp) |
 | [Imperial Measurement](https://open.kattis.com/problems/measurement) | [measurement](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/measurement.cpp) |
 | [International Dates](https://open.kattis.com/problems/internationaldates) | [internationaldates](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/internationaldates.py) |
@@ -185,6 +187,7 @@
 | [Mæting](https://open.kattis.com/problems/maeting) | [maeting](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/maeting.py) |
 | [Magic Trick](https://open.kattis.com/problems/magictrick) | [magictrick](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/magictrick.py) |
 | [Math Worksheet](https://open.kattis.com/problems/mathworksheet) | [mathworksheet_python](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/mathworksheet.py), [mathworksheet_cpp](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/mathworksheet.cpp) |
+| [Mergjað Mál](https://open.kattis.com/problems/mergjadmal) | [mergjadmal](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/mergjadmal.py) |
 | [Message](https://open.kattis.com/problems/meddelande) | [meddelande](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/meddelande.py) |
 | [Methodic Multiplication](https://open.kattis.com/problems/methodicmultiplication) | [methodicmultiplication](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/methodicmultiplication.py) |
 | [Metronome](https://open.kattis.com/problems/metronome) | [metronome](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/metronome.cpp) |
@@ -249,6 +252,7 @@
 | [Riječi](https://open.kattis.com/problems/rijeci) | [rijeci](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/rijeci.cpp) |
 | [Roaming Romans](https://open.kattis.com/problems/romans) | [romans](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/romans.cpp) |
 | [Run-Length Encoding, Run!](https://open.kattis.com/problems/runlengthencodingrun) | [runlengthencodingrun](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/runlengthencodingrun.cpp) |
+| [Sauna](https://open.kattis.com/problems/sauna) | [sauna](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/sauna.py) |
 | [Saving Daylight](https://open.kattis.com/problems/savingdaylight) | [savingdaylight](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/savingdaylight.cpp) |
 | [Saving For Retirement](https://open.kattis.com/problems/savingforretirement) | [savingforretirement](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/savingforretirement.cpp) |
 | [Secret Message](https://open.kattis.com/problems/secretmessage) | [secretmessage](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/secretmessage.cpp) |
