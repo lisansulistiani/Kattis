@@ -61,6 +61,7 @@
 | [Chanukah Challenge](https://open.kattis.com/problems/chanukah) | [chanukah](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/chanukah.cpp) |
 | [Chardonnay](https://open.kattis.com/problems/chardonnay) | [chardonnay](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/chardonnay.py) |
 | [Class Field Trip](https://open.kattis.com/problems/classfieldtrip) | [classfieldtrip](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/classfieldtrip.py) |
+| [Closest Sums](https://open.kattis.com/problems/closestsums) | [closestsums](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/closestsums.py) |
 | [Code to Save Lives](https://open.kattis.com/problems/codetosavelives) | [codetosavelives](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/codetosavelives.py) |
 | [Coffee Cup Combo](https://open.kattis.com/problems/coffeecupcombo) | [coffeecupcombo](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/coffeecupcombo.py) |
 | [Cold-puter Science](https://open.kattis.com/problems/cold) | [cold](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/cold.cpp) |
@@ -162,6 +163,7 @@
 | [Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin) | [jumbojavelin](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/jumbojavelin.cpp) |
 | [Karte](https://open.kattis.com/problems/karte) | [karte](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/karte.py) |
 | [Kemija](https://open.kattis.com/problems/kemija08) | [kemija08](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/kemija08.py) |
+| [Keyboardd](https://open.kattis.com/problems/keyboardd) | [keyboardd](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/keyboardd.py) |
 | [Keys, Phone, Wallet](https://open.kattis.com/problems/keysphonewallet) | [keysphonewallet](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/keysphonewallet.py) |
 | [Kiki Boba](https://open.kattis.com/problems/kikiboba) | [kikiboba](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/kikiboba.py) |
 | [Kínahvísl](https://open.kattis.com/problems/kinahvisl) | [kinahvisl](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/kinahvisl.py) |
