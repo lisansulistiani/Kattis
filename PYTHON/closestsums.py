@@ -7,7 +7,6 @@ while True:
     numbers = list()
     for i in range(n):
       numbers.append(int(input()))
-    # numbers.sort()
 
     m = int(input())
     queries = list()
@@ -21,7 +20,6 @@ while True:
       print(f'Case {idx}:')
       numbers = cases[idx][0]
       queries = cases[idx][1]
-      # print(numbers, queries)
       sums = list()
  
       for k in range(len(numbers)-1):
@@ -31,6 +29,5 @@ while True:
       for i in queries:
         subs = [x-i for x in sums]
         index_closest_to_zero = min(range(len(subs)), key=lambda i: abs(subs[i]))
-        
         print(f'Closest sum to {i} is {sums[index_closest_to_zero]}.')
     break

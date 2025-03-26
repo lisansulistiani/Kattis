@@ -312,6 +312,7 @@
 | [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2) | [humancannonball2](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/humancanonball2.cpp) |
 | [The Easiest Problem Is This One](https://open.kattis.com/problems/easiest) | [easiest](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/easiest.cpp) |
 | [The Key to Cryptography](https://open.kattis.com/problems/keytocrypto) | [keytocrypto](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/keytocrypto.cpp) |
+| [The Last Pizza](https://open.kattis.com/problems/sistapizzan) | [sistapizzan](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/sistapizzan.py) |
 | [The Last Problem](https://open.kattis.com/problems/thendaysofchristmas) | [thendaysofchristmas](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/thendaysofchristmas.py) |
 | [The N Days of Christmas](https://open.kattis.com/problems/thelastproblem) | [thelastproblem](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/thelastproblem.py) |
 | [The Owl and the Fox](https://open.kattis.com/problems/owlandfox) | [owlandfox](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/owlandfox.cpp) |
