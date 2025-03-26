@@ -4,6 +4,7 @@
 | - | - |
 | [2048](https://open.kattis.com/problems/2048) | [2048](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/2048.py) |
 | [3D Printed Statues](https://open.kattis.com/problems/3dprinter) | [3dprinter](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/3dprinter.py) |
+| [4 thought](https://open.kattis.com/problems/4thought) | [4thought](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/4thought.py) |
 | [99 Problems](https://open.kattis.com/problems/99problems) | [99problems](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/99problems.py) |
 | [Aaah!](https://open.kattis.com/problems/aaah) | [aaah](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/aaah.cpp) |
 | [ABC](https://open.kattis.com/problems/abc) | [abc](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/abc.py) |
