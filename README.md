@@ -69,6 +69,7 @@
 | [Composed Rhythms](https://open.kattis.com/problems/composedrhythms) | [composedrhythms](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/composedrhythms.py) |
 | [Compound Words](https://open.kattis.com/problems/compoundwords) | [compoundwords](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/compoundwords.py) |
 | [Conformity](https://open.kattis.com/problems/conformity) | [conformity](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/conformity.py) |
+| [Continuous Median](https://open.kattis.com/problems/continuousmedian) | [continuousmedian](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/continuousmedian.py) |
 | [Cosmic Path Optimization](https://open.kattis.com/problems/cosmicpathoptimization) | [cosmicpathoptimization](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/cosmicpathoptimization.py) |
 | [Count The Vowels](https://open.kattis.com/problems/countthevowels) | [countthevowels](https://github.com/lisansulistiani/Kattis/blob/main/GO/countthevowels.go) |
 | [Counting Clauses](https://open.kattis.com/problems/countingclauses) | [countingclauses](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/countingclauses.py) |
