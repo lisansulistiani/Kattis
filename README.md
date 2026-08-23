@@ -20,6 +20,7 @@
 | [Aldur](https://open.kattis.com/problems/aldur) | [aldur](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/aldur.py) |
 | [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [alphabetspam](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/alphabetSpam.cpp) |
 | [Amerískur vinnustaður](https://open.kattis.com/problems/ameriskur) | [ameriskur](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/ameriskur.py) |
+| [Another Dimension](https://open.kattis.com/problems/anotherdimension) | [anotherdimension](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/anotherdimension.py) |
 | [A New Alphabet](https://open.kattis.com/problems/anewalphabet) | [anewalphabet](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/anewalphabet.cpp) |
 | [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans) | [apaxiaaans](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/apaxiaaans.cpp) |
 | [A Second Opinion](https://open.kattis.com/problems/secondopinion) | [secondopinion](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/secondopinion.py) |
@@ -31,6 +32,7 @@
 | [Arithmetic Functions](https://open.kattis.com/problems/arithmeticfunctions) | [arithmeticfunctions](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/arithmeticfunctions.cpp) |
 | [Army Strength (Easy)](https://open.kattis.com/problems/armystrengtheasy) | [armystrengtheasy](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/armystrengtheasy.cpp) |
 | [Arrangement](https://open.kattis.com/problems/upprodun) | [upprodun](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/upprodun.py) |
+| [A Tale of Two Queues](https://open.kattis.com/problems/ataleoftwoqueues) | [ataleoftwoqueues](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/ataleoftwoqueues.py) |
 | [Autori](https://open.kattis.com/problems/autori) | [autori](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/autori.cpp) |
 | [Average Character](https://open.kattis.com/problems/averagecharacter) | [averagecharacter](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/averagecharacter.py) |
 | [Avion](https://open.kattis.com/problems/avion) | [avion](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/avion.py) |
@@ -116,6 +118,7 @@
 | [Fading Wind](https://open.kattis.com/problems/fadingwind) | [fadingwind](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/fadingwind.py) |
 | [Faktor](https://open.kattis.com/problems/faktor) | [faktor](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/faktor.cpp) |
 | [Falling Snow](https://open.kattis.com/problems/fallingsnow2) | [fallingsnow2](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/fallingsnow2.py) |
+| [Fallen Chimney](https://open.kattis.com/problems/vaeltetskorsten) | [vaeltetskorsten](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/vaeltetskorsten.py) |
 | [Fancy Multiplication](https://open.kattis.com/problems/fancymultiplication) | [fancymultiplication](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/fancymultiplication.py) |
 | [Fifty Shades of Pink](https://open.kattis.com/problems/fiftyshades) | [fiftyshades](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/fiftyshades.py) |
 | [File Extension](https://open.kattis.com/problems/nafnauki) | [nafnauki](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/nafnauki.py) |
@@ -190,6 +193,7 @@
 | [Ladder](https://open.kattis.com/problems/ladder) | [ladder](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/ladder.cpp) |
 | [Lægð yfir landinu](https://open.kattis.com/problems/laegdyfirlandinu) | [laegdyfirlandinu](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/laegdyfirlandinu.py) |
 | [Laptop Sticker](https://open.kattis.com/problems/laptopsticker) | [laptopsticker](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/laptopsticker.cpp) |
+| [Lasagne in the Oven](https://open.kattis.com/problems/lasagne) | [lasagne](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/lasagne.py) |
 | [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit) | [lastfactorialdigit](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/lastfactorialdigit.cpp) |
 | [Left Beehind](https://open.kattis.com/problems/leftbeehind) | [leftbeehind](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/leftbeehind.cpp) |
 | [Leggja saman](https://open.kattis.com/problems/leggjasaman) | [leggjasaman](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/leggjasaman.py) |
@@ -224,6 +228,7 @@
 | [Mylla](https://open.kattis.com/problems/mylla2) | [mylla2](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/mylla2.py) |
 | [Nasty Hacks](https://open.kattis.com/problems/nastyhacks) | [nastyhacks](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/nasty.cpp) |
 | [No Duplicates](https://open.kattis.com/problems/nodup) | [nodup](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/nodup.py) |
+| [No Stragglers](https://open.kattis.com/problems/nostragglers) | [nostragglers](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/nostragglers.py) |
 | [N-sum](https://open.kattis.com/problems/nsum) | [nsum](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/nsum.py) |
 | [Number Fun](https://open.kattis.com/problems/numberfun) | [numberfun](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/numberfun.cpp) |
 | [Odd Echo](https://open.kattis.com/problems/oddecho) | [oddecho](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/oddecho.py) |
@@ -350,6 +355,7 @@
 | [Tri](https://open.kattis.com/problems/tri) | [tri](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/tri.cpp) |
 | [Triangle Area](https://open.kattis.com/problems/triarea) | [triarea](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/triarea.cpp) |
 | [Trik](https://open.kattis.com/problems/trik) | [trik](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/trik.cpp) |
+| [Trials and Triangulations](https://open.kattis.com/problems/trials) | [trials](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/trials.py) |
 | [Triple Texting](https://open.kattis.com/problems/tripletexting) | [tripletexting](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/tripletexting.py) |
 | [Two-sum](https://open.kattis.com/problems/twosum) | [twosum](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/twosum.cpp) |
 | [Ultimate Binary Watch](https://open.kattis.com/problems/ultimatebinarywatch) | [ultimatebinarywatch](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/ultimatebinarywatch.py) |
