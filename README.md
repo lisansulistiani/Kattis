@@ -2,6 +2,7 @@
 ## Problems
 | Problem | Solution |
 | - | - |
+| [13 Floors](https://open.kattis.com/problems/13floors) | [13 Floors](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/13floors.py) |
 | [2048](https://open.kattis.com/problems/2048) | [2048](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/2048.py) |
 | [3D Printed Statues](https://open.kattis.com/problems/3dprinter) | [3dprinter](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/3dprinter.py) |
 | [4 thought](https://open.kattis.com/problems/4thought) | [4thought](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/4thought.py) |
@@ -105,6 +106,7 @@
 | [Echo Echo Echo](https://open.kattis.com/problems/echo) | [echo](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/echo.py) |
 | [Eight Queens](https://open.kattis.com/problems/8queens) | [8queens](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/8queens.cpp) |
 | [Eiginnöfn](https://open.kattis.com/problems/eiginnofn) | [eiginnofn](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/eiginnofn.py) |
+| [Electrical Outlets](https://open.kattis.com/problems/electricaloutlets) | [electricaloutlets](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/electricaloutlets.py) |
 | [Ekki dauði opna inni](https://open.kattis.com/problems/ekkidaudi) | [ekkidaudi](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/ekkidaudi.py) |
 | [Eligibility](https://open.kattis.com/problems/eligibility) | [eligibility](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/eligibility.py) |
 | [Electrical Outlets](https://open.kattis.com/problems/electricaloutlets) | [electricaloutlets](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/electricaloutlets.cpp) |
@@ -125,6 +127,7 @@
 | [Filip](https://open.kattis.com/problems/filip) | [filip](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/filip.py) |
 | [Fimmtudagstilboð](https://open.kattis.com/problems/fimmtudagstilbod) | [fimmtudagstilbod](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/fimmtudagstilbod.py) |
 | [Final Exam](https://open.kattis.com/problems/finalexam2) | [finalexam2](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/finalexam2.cpp) |
+| [Find maximum](https://open.kattis.com/problems/findmaximum) | [findmaximum](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/findmaximum.py) |
 | [Finding An A](https://open.kattis.com/problems/findingAnA) | [findingAnA](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/findingAnA.java) |
 | [FizzBuzz](https://open.kattis.com/problems/FizzBuzz) | [FizzBuzz](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/FizzBuzz.cpp) |
 | [Fjöldi Bókstafa](https://open.kattis.com/problems/fjoldibokstafa) | [fjoldibokstafa](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/fjoldibokstafa.py) |
@@ -166,6 +169,7 @@
 | [ICPC Awards](https://open.kattis.com/problems/icpcawards) | [icpcawards](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/icpcaward.cpp) |
 | [Imperial Measurement](https://open.kattis.com/problems/measurement) | [measurement](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/measurement.cpp) |
 | [International Dates](https://open.kattis.com/problems/internationaldates) | [internationaldates](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/internationaldates.py) |
+| [Inverse Case](https://open.kattis.com/problems/inversecase) | [inversecase](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/inversecase.py) |
 | [IsItHalloween.com](https://open.kattis.com/problems/isithalloween) | [isithalloween](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/isithalloween.cpp) |
 | [Is Y a Vowel?](https://open.kattis.com/problems/isyavowel) | [isyavowel](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/isyavowel.py) |
 | [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | [everywhere](https://github.com/lisansulistiani/Kattis/blob/main/C%23/everywhere.cs) |
@@ -210,6 +214,7 @@
 | [Mæting](https://open.kattis.com/problems/maeting) | [maeting](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/maeting.py) |
 | [Magic Trick](https://open.kattis.com/problems/magictrick) | [magictrick](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/magictrick.py) |
 | [Math Worksheet](https://open.kattis.com/problems/mathworksheet) | [mathworksheet_python](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/mathworksheet.py), [mathworksheet_cpp](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/mathworksheet.cpp) |
+| [Maximum Number](https://open.kattis.com/problems/maximumnumber) | [maximumnumber](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/maximumnumber.py) |
 | [Mergjað Mál](https://open.kattis.com/problems/mergjadmal) | [mergjadmal](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/mergjadmal.py) |
 | [Message](https://open.kattis.com/problems/meddelande) | [meddelande](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/meddelande.py) |
 | [Methodic Multiplication](https://open.kattis.com/problems/methodicmultiplication) | [methodicmultiplication](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/methodicmultiplication.py) |
@@ -268,12 +273,15 @@
 | [Quick Brown Fox](https://open.kattis.com/problems/quickbrownfox) | [quickbrownfox](https://github.com/lisansulistiani/Kattis/blob/main/JAVA/quickbrownfox.java) |
 | [Quick Estimates](https://open.kattis.com/problems/quickestimate) | [quickestimate](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/quickestimates.cpp) |
 | [Quite a Problem](https://open.kattis.com/problems/quiteaproblem) | [quiteaproblem](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/quiteaproblem.py) |
+| [QWERTY](https://open.kattis.com/problems/qwerty) | [qwerty](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/qwerty.py) |
 | [R2](https://open.kattis.com/problems/r2) | [r2](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/R2.cpp) |
 | [Railroad](https://open.kattis.com/problems/railroad) | [railroad](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/railroad.cpp) |
 | [Rating Problems](https://open.kattis.com/problems/ratingproblems) | [ratingproblems](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/ratingproblems.py) |
+| [Ready, Set, Go!](https://open.kattis.com/problems/readysetgo) | [readysetgo](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/readysetgo.py) |
 | [Recount](https://open.kattis.com/problems/recount) | [recount](https://github.com/lisansulistiani/Kattis/blob/main/C%23/recount.cs) |
 | [Rectangle Area](https://open.kattis.com/problems/rectanglearea) | [rectanglearea](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/rectanglearea.py) |
 | [Reduplication](https://open.kattis.com/problems/reduplikation) | [reduplikation](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/reduplikation.py) |
+| [Regarde!](https://open.kattis.com/problems/regarde) | [regarde](https://github.com/lisansulistiani/Kattis/blob/main/PYTHON/regarde.py) |
 | [Relocation](https://open.kattis.com/problems/relocation) | [relocation](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/relocation.cpp) |
 | [Reverse](https://open.kattis.com/problems/ofugsnuid) | [ofugsnuid](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/ofugsnuid.cpp) |
 | [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary) | [reversebinary](https://github.com/lisansulistiani/Kattis/tree/main/C%2B%2B/reversebinary.cpp) |
